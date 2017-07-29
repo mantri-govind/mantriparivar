@@ -10,11 +10,12 @@
     <p id="instructions"><em>अगली पीढ़ी की जानकारी के लिए फोटो पे टच करे </em></p>
     <div id="tree">
     </div>
+       <!--<img src="{{image}}"> -->
     <script id="person-template" type="text/x-handlebars-template">
       <div class="person">
         {{#if image}}
-          <!--<img src="{{image}}"> ->
-          <img src="images/placeholder.jpg"/>
+       
+          <img src="images/placeholder.jpg">
         {{else}}
           <img src="images/placeholder{{#isFemale}}-female{{/isFemale}}.png">
         {{/if}}
