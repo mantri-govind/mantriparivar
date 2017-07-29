@@ -7,13 +7,14 @@
   <body>
     <input type="text" id="search" placeholder="Find a person by name..."></input>
     <h1></h1>
-    <p id="instructions"><em>Click on picture to expand children.</em></p>
+    <p id="instructions"><em>अगली पीढ़ी की जानकारी के लिए फोटो पे टच करे </em></p>
     <div id="tree">
     </div>
     <script id="person-template" type="text/x-handlebars-template">
       <div class="person">
         {{#if image}}
-          <img src="{{image}}">
+          <!--<img src="{{image}}"> ->
+          <img src="images/placeholder.jpg"/>
         {{else}}
           <img src="images/placeholder{{#isFemale}}-female{{/isFemale}}.png">
         {{/if}}

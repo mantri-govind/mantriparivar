@@ -40,7 +40,7 @@ $(document).ready(function() {
   function drawTree(data) {
     context = data;
 
-    $("h1").html("The " + data.name.split(' ').pop() + " Family");
+    $("h1").html("स्वर्गीय जालमचंद जी मंत्री का परिवार ");
 
     var source   = $("#person-template").html();
     Handlebars.registerPartial("person", $("#person-template").html());
