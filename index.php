@@ -15,7 +15,7 @@
       <div class="person">
         {{#if image}}
        
-          <img src="images/placeholder.jpg">
+          <img src="images/placeholder.png">
         {{else}}
           <img src="images/placeholder{{#isFemale}}-female{{/isFemale}}.png">
         {{/if}}
