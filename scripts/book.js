@@ -1,5 +1,4 @@
 $(document).ready(function() {
-  var jsonPath = "json/" + location.hash.split('#')[1] + ".json";
   var context;
 
   var publicTree;
@@ -22,7 +21,7 @@ $(document).ready(function() {
     }
   }
 
-  $.getJSON(jsonPath, function(treeData) {
+  $.getJSON("json/mantriprivar.json", function(treeData) {
     publicTree = treeData;
     parseTree(publicTree);
     running--;
