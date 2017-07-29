@@ -1,0 +1,144 @@
+{
+	"name": "Tikamchand Ji Mantri",
+	"bio": "",
+	"image": "images/fictional/lord.png",
+	"children": [{
+			"name": "Jalamchand Ji",
+			"bio": " ",
+			"image": "images/fictional/lord.png",
+			"children": [{
+					"name": "Maanmal Ji",
+					"image": "images/fictional/lord.png",
+					"bio": "",
+					"children": [{
+							"name": "Late. Ramanarayn Ji",
+							"bio": "",
+							"children": [{
+									"name": "Late. Inderchand Ji",
+									"source": "json/indarchandji.json"
+								},
+								{
+									"name": "Late. Hulashchand Ji",
+									"source": "json/hulashchandji.json"
+								}
+							]
+						},
+						{
+							"name": "Late. Buramal Ji",
+							"image": "images/fictional/lord.png",
+							"bio": ""
+						},
+						{
+							"name": "Late. Dhansukh Ji",
+							"bio": "",
+							"source": "json/dhansukhji.json"
+						},
+						{
+							"name": "Late. Tolamal Ji",
+							"bio": "",
+							"isFemale": false,
+                            "source": "json/tolamalji.json"
+						},
+						{
+							"name": "Late. Balchand Ji",
+							"image": "images/fictional/lord.png",
+							"bio": "",
+                            "source": "json/balchandji.json"
+						}
+					]
+				},
+				{
+					"name": "Late. Bherudaan Ji",
+					"image": "images/fictional/lord.png",
+					"bio": "",
+                    "children": [{
+							"name": "Late. Likhmichand Ji",
+							"bio": "",
+				            "source": "json/likhmichandji.json"
+						},
+						{
+							"name": "Late. Ganeshmal Ji",
+							"image": "images/fictional/lord.png",
+							"bio": "",
+                            "source": "json/ganeshmalji.json"
+						},
+						{
+							"name": "Late. Chadanmal Ji",
+							"bio": "",
+							"source": "json/chandanmalji.json"
+						}
+					]
+
+				},
+				{
+					"name": "Late. Gulabchand Ji",
+					"image": "images/fictional/lord.png",
+					"bio": "",
+                     "children": [{
+							"name": "Late. Murlidhar Ji",
+							"bio": "",
+				            "source": "json/murlidharji.json"
+						},
+						{
+							"name": "Late. Kanahiyalal Ji",
+							"image": "images/fictional/lord.png",
+							"bio": "",
+                            "source": "json/kanahiyalalji.json"
+						}
+					]
+
+				},
+				{
+					"name": "Late. Ramakishan Ji",
+					"image": "images/fictional/lord.png",
+					"bio": "",
+                     "children": [{
+							"name": "Late. Aashkaran Ji",
+							"bio": "",
+				            "source": "json/ashkaranji.json"
+						}
+                    ]
+
+				}
+			]
+		},
+		{
+			"name": "Chunnilal Ji",
+			"bio": " ",
+			"children": [{
+					"name": "Dungarmal Ji"
+				},
+				{
+					"name": "Upchand Ji"
+				},
+				{
+					"name": "Todarmal Ji"
+				},
+				{
+					"name": "Tansukh Ram Ji"
+				}
+			]
+		},
+		{
+			"name": "Harjimal Ji",
+			"bio": "",
+			"children": [{
+				"name": "Pratapmal Ji"
+			}]
+		},
+
+		{
+			"name": "Anupchand Ji",
+			"bio": "",
+			"children": [{
+				"name": "Upchand Ji"
+			}]
+		},
+		{
+			"name": "Tejmaal Ji",
+			"bio": "",
+			"children": []
+
+		}
+	]
+}

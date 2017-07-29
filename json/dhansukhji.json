@@ -1,0 +1,57 @@
+{
+	"children": [{
+			"name": "Late. Radhakishan Ji",
+			"bio": "",
+			"children": [{
+					"name": "Manoj",
+					"image": "images/fictional/manoj.png",
+                    "children": [{
+					   "name": "Pratik",
+					   "image": "images/fictional/pratik.png"
+				    },
+                    {
+					   "name": "Eswar",
+					   "image": "images/fictional/eswar.png"
+				    }]
+				},
+                {
+					"name": "Mahesh",
+					"image": "images/fictional/mahesh.png",
+                    "children": [{
+					   "name": "Pranit",
+					   "image": "images/fictional/pranit.png"
+				    },
+                    {
+					   "name": "Dinesh",
+					   "image": "images/fictional/dinesh.png"
+				    }]
+				},
+                {
+					"name": "Jagdish",
+					"image": "images/fictional/jagdish.png",
+                    "children": [{
+					   "name": "Divansh",
+					   "image": "images/fictional/divansh.png"
+				    }]
+				}
+                        
+        ]},
+         {
+			"name": "Bhagirath Ji",
+            "image": "images/fictional/bhagirath.png",
+			"bio": "",
+			"children": [{
+					"name": "Naresh",
+					"image": "images/fictional/naresh.png",
+                    "children": [{
+					   "name": "Keshav",
+					   "image": "images/fictional/keshav.png"
+				    }]
+				}]
+         }
+	
+                
+    ]}
+
+
+	

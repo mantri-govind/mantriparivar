@@ -1,0 +1,22 @@
+{
+	"children": [{
+			"name": "Late. Kesharichand Ji",
+			"bio": "",
+			"children": []
+		},
+         {
+			"name": "Late. Jeshraj Ji",
+            "image": "images/fictional/jeshraj.png",
+			"bio": "",
+			"children": [{
+					"name": "Madhusudan",
+					"image": "images/fictional/vasudev.png",
+                    "children": []
+         }]
+         }
+	
+                
+    ]}
+
+
+	

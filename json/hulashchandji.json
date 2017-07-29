@@ -1,0 +1,36 @@
+{
+	"children": [{
+			"name": "Late. Hariprasad Ji",
+			"bio": "",
+			"children": [{
+					"name": "Chandraprakash",
+					"image": "images/fictional/chandraprakash.png"
+				}]
+		},
+         {
+			"name": "Champalal Ji",
+            "image": "images/fictional/champalal.png",
+			"bio": "",
+			"children": [{
+					"name": "Vasudev",
+					"image": "images/fictional/vasudev.png",
+                    "children": [{
+					   "name": "Akshat",
+					   "image": "images/fictional/akshat.png"
+				    },
+                    {
+					   "name": "Vikram",
+					   "image": "images/fictional/vikram.png"
+				    }]
+				},
+                {
+					"name": "Govind",
+					"image": "images/fictional/govind.png"
+                }]
+         }
+	
+                
+    ]}
+
+
+	

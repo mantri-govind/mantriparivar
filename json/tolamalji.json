@@ -1,0 +1,45 @@
+{
+	"children": [{
+			"name": "Karnidaan Ji",
+			"bio": "",
+			"children": [{
+					"name": "Narayan Ji (Jamanaprasad)",
+					"image": "images/fictional/narayan.png",
+                    "children": [
+                        {
+                            "name": "Naveen",
+                            "image": "images/fictional/naveen.png"
+                        },
+                            {
+                               "name": "Shivam",
+                               "image": "images/fictional/shivam.png"
+                            }
+                     ]
+				},
+                   {     
+					"name": "Gopal",
+					"image": "images/fictional/gopal.png",
+                    "children": [
+                        {
+                            "name": "Govind",
+                            "image": "images/fictional/govind.png"
+                        }
+                     ]
+				},
+                {     
+					"name": "Ramvatar",
+					"image": "images/fictional/ramvatar.png",
+                    "children": [
+                        {
+                            "name": "Piyush",
+                            "image": "images/fictional/piyush.png"
+                        }
+                     ]
+				}]
+		}
+         
+                
+    ]}
+
+
+	

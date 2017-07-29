@@ -1,0 +1,141 @@
+{
+	"children": [{
+			"name": "Tilokchand Ji",
+			"bio": "",
+			"children": [{
+					"name": "Harakchand Ji",
+					"image": "images/fictional/harakchand.png",
+					"children": [{
+						"name": "Vishnu",
+						"image": "images/fictional/vishnu.png",
+						"children": [{
+							"name": "Pranav",
+							"image": "images/fictional/pranav.png"
+						}]
+
+					}]
+				},
+
+				{
+					"name": "Omprakash Ji",
+					"image": "images/fictional/omprakash.png",
+					"children": [{
+						"name": "Gravit",
+						"image": "images/fictional/gravit.png"
+
+					}]
+				},
+				{
+					"name": "Nandkishor Ji",
+					"image": "images/fictional/nandkishor.png",
+					"children": [{
+						"name": "Nikhil",
+						"image": "images/fictional/nikhil.png"
+
+					}]
+				}
+			]
+		},
+		{
+			"name": "Daanmal Ji",
+			"image": "images/fictional/daanmal.png",
+			"children": [{
+					"name": "Hargovind Ji",
+					"image": "images/fictional/hargovind.png",
+					"children": [{
+							"name": "Prashant",
+							"image": "images/fictional/prashant.png",
+							"children": [{
+								"name": "Himanshu",
+								"image": "images/fictional/himanshu.png"
+							}]
+
+						},
+						{
+							"name": "Praveen",
+							"image": "images/fictional/praveen.png",
+							"children": [{
+								"name": "Chaitanya",
+								"image": "images/fictional/chaitanya.png"
+							}]
+
+						},
+						{
+							"name": "Shushant",
+							"image": "images/fictional/shushant.png",
+							"children": [{
+								"name": "Darsh",
+								"image": "images/fictional/darsh.png"
+							}]
+
+						}
+					]
+				},
+
+				{
+					"name": "Aanad Ji",
+					"image": "images/fictional/aanad.png",
+					"children": [{
+							"name": "Aashish",
+							"image": "images/fictional/aashish.png",
+							"children": [{
+								"name": "Keshav",
+								"image": "images/fictional/keshav.png"
+
+							}]
+
+						},
+						{
+							"name": "Abhishek",
+							"image": "images/fictional/abhishek.png",
+							"children": [{
+									"name": "Bhavy",
+									"image": "images/fictional/bhavy.png"
+
+								},
+								{
+									"name": "Kushal",
+									"image": "images/fictional/kushal.png"
+
+								}
+							]
+
+						}
+					]
+				},
+				{
+					"name": "Pramod",
+					"image": "images/fictional/pramod.png",
+					"children": [{
+						"name": "Raghav",
+						"image": "images/fictional/raghav.png"
+
+					}]
+
+				},
+				{
+					"name": "Prabhat",
+					"image": "images/fictional/prabhat.png",
+					"children": [{
+							"name": "Madhav",
+							"image": "images/fictional/madhav.png"
+
+						},
+						{
+							"name": "Kaushal",
+							"image": "images/fictional/kaushal.png"
+
+						}
+					]
+
+				}
+			]
+		}
+
+
+
+
+
+
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"children": [{
+			"name": "Sitaram Ji",
+			"bio": "",
+			"children": [{
+					"name": "Kamal",
+					"image": "images/fictional/kamal.png",
+					"children": []
+				},
+				{
+					"name": "Vimal",
+					"image": "images/fictional/vimal.png",
+					"children": [{
+						"name": "Aayush",
+						"image": "images/fictional/aayush.png"
+					}]
+				},
+				{
+					"name": "Mahesh",
+					"image": "images/fictional/mahesh.png",
+					"children": []
+				}
+			]
+
+		},
+		{
+			"name": "Pannalal Ji",
+			"bio": "",
+			"children": [{
+				"name": "Ankit",
+				"image": "images/fictional/ankit.png",
+				"children": [{
+					"name": "Vivan",
+					"image": "images/fictional/vivan.png"
+				}]
+			}]
+
+		},
+		{
+			"name": "Late. Dashrath Ji",
+			"bio": ""
+		},
+		{
+			"name": "Shivbhagwan Ji",
+			"bio": "",
+			"children": [{
+					"name": "Late. Amit",
+					"image": "images/fictional/amit.png"
+				},
+				{
+					"name": "Sumit",
+					"image": "images/fictional/sumit.png"
+				}
+			]
+
+		},
+		{
+			"name": "Jayprakash Ji",
+			"bio": "",
+			"children": [{
+				"name": "Mayank",
+				"image": "images/fictional/amit.png"
+			}]
+
+		}
+
+
+	]
+}

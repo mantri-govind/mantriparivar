@@ -1,0 +1,117 @@
+{
+	"children": [{
+			"name": "Meghraj Ji",
+			"bio": "",
+			"children": [{
+					"name": "Krishangopal Ji",
+					"image": "images/fictional/krishangopal.png",
+					"children": [{
+						"name": "Suraj",
+						"image": "images/fictional/suraj.png"
+
+					}]
+				},
+
+				{
+					"name": "Sunil Kumar Ji",
+					"image": "images/fictional/sunilkumar.png",
+					"children": [{
+							"name": "Sachin",
+							"image": "images/fictional/sachin.png"
+
+						},
+						{
+							"name": "Govind",
+							"image": "images/fictional/govind.png"
+
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Bajranglal Ji",
+			"image": "images/fictional/bajranglal.png",
+			"children": [{
+					"name": "Sanjeev Ji",
+					"image": "images/fictional/sanjeev.png",
+					"children": []
+
+				},
+				{
+					"name": "Sandeep Ji",
+					"image": "images/fictional/sandeep.png",
+					"children": [{
+						"name": "Shubham",
+						"image": "images/fictional/shubham.png"
+					}]
+
+				}
+			]
+		},
+
+		{
+			"name": "Banshidhar Ji",
+			"image": "images/fictional/banshidhar.png",
+			"children": [{
+					"name": "Sumit",
+					"image": "images/fictional/sumit.png"
+				},
+				{
+					"name": "Amit",
+					"image": "images/fictional/amit.png"
+				},
+				{
+					"name": "Gaurav",
+					"image": "images/fictional/Gaurav.png"
+
+				},
+				{
+					"name": "Gautam",
+					"image": "images/fictional/Gautam.png"
+
+				}
+
+			]
+		},
+		{
+			"name": "Jugal Kishor Ji",
+			"image": "images/fictional/jugalkishor.png",
+			"children": [{
+				"name": "Sanup",
+				"image": "images/fictional/sanup.png"
+
+			}, {
+				"name": "Gopal",
+				"image": "images/fictional/gopal.png"
+
+			}]
+
+		},
+		{
+			"name": "Rajkumar Ji",
+			"image": "images/fictional/rajkumar.png",
+			"children": [{
+					"name": "Satish",
+					"image": "images/fictional/satish.png",
+					"children": [{
+						"name": "Madhav",
+						"image": "images/fictional/madhav.png"
+
+					}]
+				},
+				{
+					"name": "Ram",
+					"image": "images/fictional/ram.png"
+
+				},
+				{
+					"name": "Girish",
+					"image": "images/fictional/girish.png"
+
+				}
+			]
+
+		}
+	]
+}

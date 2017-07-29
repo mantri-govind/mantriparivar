@@ -1,0 +1,67 @@
+{
+	"children": [{
+			"name": "Late. Nathmal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Dinesh",
+					"image": "images/fictional/dinesh.png",
+					"children": [{
+						"name": "Pratik",
+						"image": "images/fictional/pratik.png"
+					}]
+				},
+				{
+					"name": "Yogesh",
+					"image": "images/fictional/yogesh.png",
+					"children": [{
+							"name": "Aaryan",
+							"image": "images/fictional/aaryan.png"
+						},
+						{
+							"name": "Rishi",
+							"image": "images/fictional/rishi.png"
+						}
+					]
+				}
+			]
+
+		},
+		{
+			"name": "Jethmal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Rakesh",
+					"image": "images/fictional/rakesh.png",
+					"children": [{
+						"name": "Aakarsh",
+						"image": "images/fictional/aakarsh.png"
+					}]
+				},
+				{
+					"name": "Amit",
+					"image": "images/fictional/amit.png",
+					"children": [{
+						"name": "Riyansh",
+						"image": "images/fictional/riyansh.png"
+					}]
+				}
+			]
+
+		},
+		{
+			"name": "Surajmal Ji",
+			"bio": "",
+			"children": [{
+				"name": "Alok",
+				"image": "images/fictional/alok.png",
+				"children": [{
+					"name": "Manash",
+					"image": "images/fictional/manash.png"
+				}]
+			}]
+
+		}
+
+
+	]
+}

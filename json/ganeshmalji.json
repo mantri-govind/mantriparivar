@@ -1,0 +1,62 @@
+{
+	"children": [{
+			"name": "Begraj Ji",
+			"bio": "",
+			"children": [{
+				"name": "Ashok Ji",
+				"image": "images/fictional/ahok.png",
+				"children": []
+			}, {
+				"name": "Ramavtar Ji",
+				"bio": "",
+				"children": [{
+						"name": "Abhishek",
+						"image": "images/fictional/abhishek.png"
+					},
+					{
+						"name": "Naveen",
+						"image": "images/fictional/naveen.png"
+					}
+				]
+			}]
+		},
+		{
+			"name": "Prithaviraj Ji",
+			"image": "images/fictional/prithaviraj.png",
+			"children": [{
+				"name": "Mahaveer Prasad",
+				"image": "images/fictional/mahaveerprasad.png",
+				"children": [{
+					"name": "Vidish",
+					"image": "images/fictional/vidish.png"
+				}]
+			}]
+		}, {
+			"name": "Ramgopal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Ramesh",
+					"image": "images/fictional/ramesh.png",
+					"children": [{
+						"name": "Kush",
+						"image": "images/fictional/kush.png"
+					}, {
+						"name": "Sidharth",
+						"image": "images/fictional/sidharth.png"
+					}]
+				},
+				{
+					"name": "Vikash",
+					"image": "images/fictional/vikash.png"
+				},
+				{
+					"name": "Amit",
+					"image": "images/fictional/amit.png"
+				}
+			]
+		}
+
+
+
+	]
+}

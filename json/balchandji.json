@@ -1,0 +1,56 @@
+{
+	"children": [{
+			"name": "Bajrang Lal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Niranjan",
+					"image": "images/fictional/niranjan.png",
+                    "children": [
+                        {
+                            "name": "Slok",
+                            "image": "images/fictional/slok.png"
+                        }
+                     ]
+				}]
+            },
+                   {     
+					"name": "Shri Manakchandji (Pitarji Maharaj)",
+					"image": "images/fictional/pitarji.png"
+                     
+				},
+                {     
+					"name": "Omprakash Ji",
+					"image": "images/fictional/omprakhash.png",
+                    "children": [
+                     ]
+				},{
+                "name": "Late. Tarachand Ji",
+                "bio": "",
+                "children": [{
+					"name": "Madhav",
+					"image": "images/fictional/madhav.png"
+                        }
+                     ]
+				},
+                 {
+			"name": "Sagarmal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Vineet",
+					"image": "images/fictional/vineet.png",
+                    "children": [
+                        {
+                            "name": "Vivan",
+                            "image": "images/fictional/vivan.png"
+                        }
+                     ]
+				}]
+            }
+                 
+		 
+         
+                
+    ]}
+
+
+	

@@ -1,0 +1,68 @@
+{
+	"children": [{
+			"name": "Late. Bhanwarlal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Late. Rajkumar",
+					"image": "images/fictional/rajkumar.png"
+				},
+				{
+					"name": "Harishankar",
+					"image": "images/fictional/harishankar.jpg",
+					"children": [{
+						"name": "Aditya",
+						"image": "images/fictional/aditya.png"
+					}]
+				},
+				{
+					"name": "Kishore Kumar",
+					"image": "images/fictional/kishore.jpg",
+					"children": [{
+						"name": "Pradhuman",
+						"image": "images/fictional/pradhuman.png"
+					}]
+				},
+				{
+					"name": "Deendayal",
+					"image": "images/fictional/deendayal.png",
+					"children": [{
+						"name": "Rachit",
+						"image": "images/fictional/rachit.png"
+					}]
+				}
+			]
+		},
+         {
+			"name": "Madangopal Ji",
+			"bio": "",
+			"children": [{
+					"name": "Naveen Kumar",
+					"image": "images/fictional/naveenkumar.png",
+                    "children": [{
+					   "name": "Yuvraj",
+					   "image": "images/fictional/yuvraj.png"
+				    }]
+				}]
+         },
+          {
+			"name": "Tulsiram Ji",
+			"bio": "",
+			"children": [{
+					"name": "Deepak",
+					"image": "images/fictional/sandeep.png",
+                    "children": []
+				},{
+					"name": "Sandeep",
+					"image": "images/fictional/sandeep.png",
+                    "children": [{
+					   "name": "Tejas",
+					   "image": "images/fictional/tejas.png"
+				    }]
+				}]
+         }
+	
+                
+    ]}
+
+
+	
