@@ -1,5 +1,5 @@
 {
-	"name": "Tikamchand Ji Mantri",
+	"name": "Late. Tikamchand Ji Mantri",
 	"bio": "",
 	"image": "images/fictional/lord.png",
 	"children": [{
@@ -7,7 +7,7 @@
 			"bio": " ",
 			"image": "images/fictional/lord.png",
 			"children": [{
-					"name": "Maanmal Ji",
+					"name": "Late. Maanmal Ji",
 					"image": "images/fictional/lord.png",
 					"bio": "",
 					"children": [{
@@ -103,7 +103,7 @@
 			]
 		},
 		{
-			"name": "Chunnilal Ji",
+			"name": "Late. Chunnilal Ji",
 			"bio": " ",
 			"children": [{
 					"name": "Dungarmal Ji"
@@ -120,7 +120,7 @@
 			]
 		},
 		{
-			"name": "Harjimal Ji",
+			"name": "Late. Harjimal Ji",
 			"bio": "",
 			"children": [{
 				"name": "Pratapmal Ji"
@@ -128,14 +128,14 @@
 		},
 
 		{
-			"name": "Anupchand Ji",
+			"name": "Late. Anupchand Ji",
 			"bio": "",
 			"children": [{
 				"name": "Upchand Ji"
 			}]
 		},
 		{
-			"name": "Tejmaal Ji",
+			"name": "Late. Tejmaal Ji",
 			"bio": "",
 			"children": []
 
