@@ -1,11 +1,56 @@
 {
 	"children": [{
+                    "name": "Sohni Devi Taparia",
+                    "isFemale": true,
+                    "bio": "Chhappar- Gulabbag"   
+                  },{
+                    "name": "Dakhi Devi Pansari",
+                    "isFemale": true,
+                    "bio": "Didwana-Kolkata"   
+                  },{
+                    "name": "Geeta Devi Lohiya",
+                    "isFemale": true,
+                    "bio": "Dariba-Kolkata"   
+                  },{
 			"name": "Tilokchand Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Sampath Holani",
+                    "isFemale": true,
+                    "bio": "Khunkhuna"   
+                  },{
+                    "name": "Urmila Rathi",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh-Barpetta Road"   
+                  },{
+                    "name": "Chandrakala Holani",
+                    "isFemale": true,
+                    "bio": "Khunkhuna"   
+                  },
+                    {
+                    "name": "Kaushliya Taparia",
+                    "isFemale": true,
+                    "bio": "Sandwa - Hydrabad"   
+                  },{
+                    "name": "Shanti Bangar",
+                    "isFemale": true,
+                    "bio": "Kishangarh"   
+                  },{
+                    "name": "Anju Baheti",
+                    "isFemale": true,
+                    "bio": "Chhappar"   
+                  },{
 					"name": "Harakchand Ji",
 					"image": "images/fictional/harakchand.png",
 					"children": [{
+                    "name": "Kumari Garima",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Pooja",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Vishnu",
 						"image": "images/fictional/vishnu.png",
 						"children": [{
@@ -20,6 +65,18 @@
 					"name": "Omprakash Ji",
 					"image": "images/fictional/omprakash.png",
 					"children": [{
+                    "name": "Kumari Jayshree",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Rajshree",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Shristi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Gravit",
 						"image": "images/fictional/gravit.png"
 
@@ -29,6 +86,10 @@
 					"name": "Nandkishor Ji",
 					"image": "images/fictional/nandkishor.png",
 					"children": [{
+                    "name": "Kumari Varsha",
+                    "isFemale": true,
+                    "bio": "Sujangarh"   
+                  },{
 						"name": "Nikhil",
 						"image": "images/fictional/nikhil.png"
 
@@ -48,7 +109,15 @@
 							"children": [{
 								"name": "Himanshu",
 								"image": "images/fictional/himanshu.png"
-							}]
+							},{
+                    "name": "Kumari Upasana",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Riddhi",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 						},
 						{
@@ -57,7 +126,11 @@
 							"children": [{
 								"name": "Chaitanya",
 								"image": "images/fictional/chaitanya.png"
-							}]
+							},{
+                    "name": "Kumari Jigyasha",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 						},
 						{
@@ -66,7 +139,11 @@
 							"children": [{
 								"name": "Darsh",
 								"image": "images/fictional/darsh.png"
-							}]
+							},{
+                    "name": "Kumari Dirishi",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 						}
 					]
@@ -82,7 +159,11 @@
 								"name": "Keshav",
 								"image": "images/fictional/keshav.png"
 
-							}]
+							},{
+                    "name": "Kumari Aditi",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 						},
 						{
@@ -110,7 +191,11 @@
 						"name": "Raghav",
 						"image": "images/fictional/raghav.png"
 
-					}]
+					},{
+                    "name": "Mahima Rathi",
+                    "isFemale": true,
+                    "bio": "Surat"   
+                  }]
 
 				},
 				{

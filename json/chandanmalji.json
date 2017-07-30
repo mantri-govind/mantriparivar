@@ -1,11 +1,27 @@
 {
 	"children": [{
+                    "name": "Rameshwari Devi Taparia",
+                    "isFemale": true,
+                    "bio": "Sandwa - Hydrabad"   
+                  },{
+                    "name": "Narbda Devi Karwa",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Surat"   
+                  },{
+                    "name": "Kamla Devi Pansari",
+                    "isFemale": true,
+                    "bio": "Didwana - Vishakhapatam"   
+                  },{
 			"name": "Late. Nathmal Ji",
 			"bio": "",
 			"children": [{
 					"name": "Dinesh",
 					"image": "images/fictional/dinesh.png",
 					"children": [{
+                    "name": "Garima Daga",
+                    "isFemale": true,
+                    "bio": "Madurai -  Banglore"   
+                  },{
 						"name": "Pratik",
 						"image": "images/fictional/pratik.png"
 					}]
@@ -30,17 +46,29 @@
 			"name": "Jethmal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Vinita Singhi",
+                    "isFemale": true,
+                    "bio": "Kolkata - Surat"   
+                  },{
 					"name": "Rakesh",
 					"image": "images/fictional/rakesh.png",
 					"children": [{
 						"name": "Aakarsh",
 						"image": "images/fictional/aakarsh.png"
-					}]
+					},{
+                    "name": "Kumari Aastha",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				},
 				{
 					"name": "Amit",
 					"image": "images/fictional/amit.png",
 					"children": [{
+                    "name": "Kumari Shreya",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Riyansh",
 						"image": "images/fictional/riyansh.png"
 					}]
@@ -52,12 +80,24 @@
 			"name": "Surajmal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Preeti Baheti",
+                    "isFemale": true,
+                    "bio": "Kolkata -  Banglore"   
+                  },{
+                    "name": "Jyoti Lahoi",
+                    "isFemale": true,
+                    "bio": "Bikaner - Dubai"   
+                  },{
 				"name": "Alok",
 				"image": "images/fictional/alok.png",
 				"children": [{
 					"name": "Manash",
 					"image": "images/fictional/manash.png"
-				}]
+				},{
+                    "name": "Kumari Janki",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 			}]
 
 		}

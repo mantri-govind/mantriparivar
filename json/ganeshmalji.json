@@ -1,11 +1,43 @@
 {
 	"children": [{
+			"name": "Muli Devi Chandak",
+			"isFemale": true,
+			"bio": "Sri Dungargarh - Dinhatta"
+		}, {
+			"name": "Godawari Devi Jhanwar",
+			"isFemale": true,
+			"bio": "Sri Dungargarh - Dinhatta"
+		}, {
+			"name": "Saraswati Devi Pansari",
+			"isFemale": true,
+			"bio": "Didwana - Kolkata"
+		}, {
+			"name": "Basanti Devi Rathi",
+			"isFemale": true,
+			"bio": "Sri Dungargarh - Bhettagudi"
+		}, {
 			"name": "Begraj Ji",
 			"bio": "",
 			"children": [{
+				"name": "Sunita Jhanwar",
+				"isFemale": true,
+				"bio": "Sri Dungargarh - Vardhmaan"
+			}, {
 				"name": "Ashok Ji",
 				"image": "images/fictional/ahok.png",
-				"children": []
+				"children": [{
+					"name": "Sheweta Kalani",
+					"isFemale": true,
+					"bio": "Delhi"
+				}, {
+					"name": "Kumari Kavita",
+					"isFemale": true,
+					"bio": ""
+				}, {
+					"name": "Kumari Meenakshi",
+					"isFemale": true,
+					"bio": ""
+				}]
 			}, {
 				"name": "Ramavtar Ji",
 				"bio": "",
@@ -24,11 +56,23 @@
 			"name": "Prithaviraj Ji",
 			"image": "images/fictional/prithaviraj.png",
 			"children": [{
+				"name": "Nirmala Rathi",
+				"isFemale": true,
+				"bio": "Dariba -  Kaliyaganj"
+			}, {
+				"name": "Rekha Jhanwar",
+				"isFemale": true,
+				"bio": "Deshnok - Jhanwar"
+			}, {
 				"name": "Mahaveer Prasad",
 				"image": "images/fictional/mahaveerprasad.png",
 				"children": [{
 					"name": "Vidish",
 					"image": "images/fictional/vidish.png"
+				}, {
+					"name": "Kumari Prachi",
+					"isFemale": true,
+					"bio": ""
 				}]
 			}]
 		}, {
@@ -38,7 +82,7 @@
 					"name": "Ramesh",
 					"image": "images/fictional/ramesh.png",
 					"children": [{
-						"name": "Kush",
+						"name": "Khush",
 						"image": "images/fictional/khush.png"
 					}, {
 						"name": "Sidharth",

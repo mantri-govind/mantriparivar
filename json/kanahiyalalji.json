@@ -1,16 +1,40 @@
 {
 	"children": [{
+                    "name": "Anandi Devi Kankani",
+                    "isFemale": true,
+                    "bio": "Ladnu - Indore"   
+                  },{
+                    "name": "Hiramani Devi Taparia",
+                    "isFemale": true,
+                    "bio": "Sandwa - Burhanpur"   
+                  },{
+                    "name": "Vimla Devi Karwa",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Surat"   
+                  },{
 			"name": "Sitaram Ji",
 			"bio": "",
 			"children": [{
 					"name": "Kamal",
 					"image": "images/fictional/kamal.png",
-					"children": []
+					"children": [{
+                    "name": "Kumari Diksha",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Siksha",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				},
 				{
 					"name": "Vimal",
 					"image": "images/fictional/vimal.png",
 					"children": [{
+                    "name": "Kumari Sakshi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Aayush",
 						"image": "images/fictional/aayush.png"
 					}]
@@ -27,6 +51,10 @@
 			"name": "Pannalal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Rekha Daga",
+                    "isFemale": true,
+                    "bio": "Sri Dungargrah - Delhi"   
+                  },{
 				"name": "Ankit",
 				"image": "images/fictional/ankit.png",
 				"children": [{
@@ -46,7 +74,19 @@
 			"children": [{
 					"name": "Late. Amit",
 					"image": "images/fictional/amit.png"
-				},
+				},{
+                    "name": "Kavita Chandak",
+                    "isFemale": true,
+                    "bio": "Himatsar - Jorhat"   
+                  },{
+                    "name": "Komal Gupta",
+                    "isFemale": true,
+                    "bio": "Jaipur -  Bahrin"   
+                  },{
+                    "name": "Nisha Jain",
+                    "isFemale": true,
+                    "bio": "Kolkata -  Dubai"   
+                  },
 				{
 					"name": "Sumit",
 					"image": "images/fictional/sumit.png"
@@ -60,7 +100,11 @@
 			"children": [{
 				"name": "Mayank",
 				"image": "images/fictional/amit.png"
-			}]
+			},{
+                    "name": "Kumari Khushi",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 		}
 

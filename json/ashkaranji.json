@@ -2,16 +2,76 @@
 	"children": [{
 			"name": "Late. Kesharichand Ji",
 			"bio": "",
-			"children": []
+			"children": [{
+                    "name": "Meena Asawa",
+                    "isFemale": true,
+                    "bio": "Khiyala - Bhayandar"   
+                  },{
+                    "name": "Sunanda Soni",
+                    "isFemale": true,
+                    "bio": "Kathoti -  Pali"   
+                  },{
+                    "name": "Santosh Karwa",
+                    "isFemale": true,
+                    "bio": "Sujangarh - Kolkata"   
+                  },{
+                    "name": "Kusum Rathi",
+                    "isFemale": true,
+                    "bio": "Gopalpura"   
+                  },{
+                    "name": "Suman Toshniwal",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh -  Kaliyaganj"   
+                  },{
+                    "name": "Sangeeta Mal",
+                    "isFemale": true,
+                    "bio": "Surat"   
+                  },{
+                    "name": "Navita Bajaj",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Delhi"   
+                  },{
+                    "name": "Kanta Muchaal",
+                    "isFemale": true,
+                    "bio": "Didwana - Kolkata"   
+                  }]
 		},
          {
 			"name": "Late. Jeshraj Ji",
             "image": "images/fictional/jeshraj.png",
 			"bio": "",
 			"children": [{
+                    "name": "Nirmla Chandak",
+                    "isFemale": true,
+                    "bio": "Sri Dungargarh - Bhiwandi"   
+                  },{
+                    "name": "Sharmila Periwal",
+                    "isFemale": true,
+                    "bio": "Ratangarh - Jaipur"   
+                  },{
+                    "name": "Parmila Rathi",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Delhi"   
+                  },{
+                    "name": "Sashikala Somani",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh"   
+                  },{
 					"name": "Madhusudan",
 					"image": "images/fictional/vasudev.png",
-                    "children": []
+                    "children": [{
+                    "name": "Kumari Sakshi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Nidhi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Ritima",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
          }]
          }
 	

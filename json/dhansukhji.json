@@ -1,8 +1,28 @@
 {
 	"children": [{
+                    "name": "Late. Indira Periwal",
+                    "isFemale": true,
+                    "bio": "Chhapper"   
+                  },{
+                    "name": "Late. Savitri Jhanwar",
+                    "isFemale": true,
+                    "bio": "Sri Dungargarh-Dinhatta"   
+                  },{
+                    "name": "Late. Parvati Chandak",
+                    "isFemale": true,
+                    "bio": "Janswantgarh"   
+                  },{
+                    "name": "Nani Bai",
+                    "isFemale": true,
+                    "bio": "Dariba-Bhiwandi"   
+                  },{
 			"name": "Late. Radhakishan Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Kiran Periwal",
+                    "isFemale": true,
+                    "bio": "Viratnagar (Nepal)"   
+                  },{
 					"name": "Manoj",
 					"image": "images/fictional/manoj.png",
                     "children": [{
@@ -30,6 +50,10 @@
 					"name": "Jagdish",
 					"image": "images/fictional/jagdish.png",
                     "children": [{
+                    "name": "Kumari Komal",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 					   "name": "Divansh",
 					   "image": "images/fictional/divansh.png"
 				    }]
@@ -41,9 +65,21 @@
             "image": "images/fictional/bhagirath.png",
 			"bio": "",
 			"children": [{
+                    "name": "Kalawati Maru",
+                    "isFemale": true,
+                    "bio": "Viratnagar (Nepal)"   
+                  },{
+                    "name": "Vinita Lohiya",
+                    "isFemale": true,
+                    "bio": "Kolkata"   
+                  },{
 					"name": "Naresh",
 					"image": "images/fictional/naresh.png",
                     "children": [{
+                    "name": "Kumari Harshita",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 					   "name": "Keshav",
 					   "image": "images/fictional/keshav.png"
 				    }]

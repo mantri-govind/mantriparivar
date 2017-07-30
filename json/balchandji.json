@@ -1,15 +1,28 @@
 {
 	"children": [{
+                    "name": "Champa Devi Chandak",
+                    "isFemale": true,
+                    "bio": "Bikaner - New Jersey(US)"   
+                  },{
 			"name": "Bajrang Lal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Kanchan Ladha ",
+                    "isFemale": true,
+                    "bio": "Kolkata"   
+                  },{
 					"name": "Niranjan",
 					"image": "images/fictional/niranjan.png",
                     "children": [
                         {
                             "name": "Slok",
                             "image": "images/fictional/slok.png"
-                        }
+                        },
+                        {
+                    "name": "Kumari Nidhi",
+                    "isFemale": true,
+                    "bio": ""   
+                  }
                      ]
 				}]
             },
@@ -21,12 +34,24 @@
                 {     
 					"name": "Omprakash Ji",
 					"image": "images/fictional/omprakhash.png",
-                    "children": [
+                    "children": [{
+                    "name": "Preeti Chandak",
+                    "isFemale": true,
+                    "bio": "Raipur"   
+                  },{
+                    "name": "Shruti Bhasin",
+                    "isFemale": true,
+                    "bio": "Hydrabad"   
+                  }
                      ]
 				},{
                 "name": "Late. Tarachand Ji",
                 "bio": "",
                 "children": [{
+                    "name": "Nisha Baldua",
+                    "isFemale": true,
+                    "bio": "Hydrabad"   
+                  },{
 					"name": "Madhav",
 					"image": "images/fictional/madhav.png"
                         }
@@ -36,6 +61,10 @@
 			"name": "Sagarmal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Ritu Soni",
+                    "isFemale": true,
+                    "bio": "Vishakhapatam"   
+                  },{
 					"name": "Vineet",
 					"image": "images/fictional/vineet.png",
                     "children": [

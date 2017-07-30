@@ -6,7 +6,16 @@
 					"name": "Chandraprakash",
 					"image": "images/fictional/chandraprakash.png"
 				}]
-		},
+		},{
+                    "name": "Saroj Toshniwal",
+                    "isFemale": true,
+                    "bio": "Sujangarh - Delhi"   
+                  },
+                 {
+                    "name": "Seeta Rathi",
+                    "isFemale": true,
+                    "bio": "Janswantgarh - Mumbai"   
+                  },
          {
 			"name": "Champalal Ji",
             "image": "images/fictional/champalal.png",

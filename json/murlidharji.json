@@ -1,11 +1,31 @@
 {
 	"children": [{
+                    "name": "Kishni Devi Lohiya",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Surat"   
+                  },{
+                    "name": "Late. Vimla Devi Malani",
+                    "isFemale": true,
+                    "bio": "Sujangarh - Mumbai"   
+                  },{
 			"name": "Meghraj Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Sarla Lahoti",
+                    "isFemale": true,
+                    "bio": "Chhappar - Kolkata"   
+                  },{
 					"name": "Krishangopal Ji",
 					"image": "images/fictional/krishangopal.png",
 					"children": [{
+                    "name": "Preeti Bhutda",
+                    "isFemale": true,
+                    "bio": "Hissar"   
+                  },{
+                    "name": "Kumari Swati",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Suraj",
 						"image": "images/fictional/suraj.png"
 
@@ -33,15 +53,35 @@
 			"name": "Bajranglal Ji",
 			"image": "images/fictional/bajranglal.png",
 			"children": [{
+                    "name": "Anuja Jhanwar",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Mumbai"   
+                  },{
+                    "name": "Indira Lohiya",
+                    "isFemale": true,
+                    "bio": "Sri Dungargrah - Burahanpur"   
+                  },{
 					"name": "Sanjeev Ji",
 					"image": "images/fictional/sanjeev.png",
-					"children": []
+					"children": [{
+                    "name": "Kumari Sweta",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Nisha",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 				},
 				{
 					"name": "Sandeep Ji",
 					"image": "images/fictional/sandeep.png",
 					"children": [{
+                    "name": "Kumari Sakshi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 						"name": "Shubham",
 						"image": "images/fictional/shubham.png"
 					}]
@@ -78,6 +118,10 @@
 			"name": "Jugal Kishor Ji",
 			"image": "images/fictional/jugalkishor.png",
 			"children": [{
+                    "name": "Kumari Pooja",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
 				"name": "Sanup",
 				"image": "images/fictional/sanup.png"
 
@@ -102,7 +146,12 @@
 				},
 				{
 					"name": "Ram",
-					"image": "images/fictional/ram.png"
+					"image": "images/fictional/ram.png",
+                    "children": [{
+                    "name": "Kumari Aaradhya",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 
 				},
 				{

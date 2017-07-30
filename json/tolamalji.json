@@ -1,11 +1,41 @@
 {
 	"children": [{
+                    "name": "Muli Devi Parwal",
+                    "isFemale": true,
+                    "bio": "Bareli"   
+                  },{
+                    "name": "Mamoi Devi Rathi",
+                    "isFemale": true,
+                    "bio": "Sujangarh"   
+                  },{
+                    "name": "Pana Devi Asawa",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh"   
+                  },{
 			"name": "Karnidaan Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Premlata Mundhra",
+                    "isFemale": true,
+                    "bio": "Chhapar"   
+                  },{
+                    "name": "Suman Karwa",
+                    "isFemale": true,
+                    "bio": "Sujangarh"   
+                  },
+                         {
+                    "name": "Durga Lakhotiya",
+                    "isFemale": true,
+                    "bio": "Jorhat"   
+                  },{
 					"name": "Narayan Ji (Jamanaprasad)",
 					"image": "images/fictional/narayan.png",
                     "children": [
+                        {
+                    "name": "Radha Somani",
+                    "isFemale": true,
+                    "bio": "Sri Dungargrah- Malegoan"   
+                  },
                         {
                             "name": "Naveen",
                             "image": "images/fictional/naveen.png"
@@ -21,9 +51,18 @@
 					"image": "images/fictional/gopal.png",
                     "children": [
                         {
+                    "name": "Mona Baheti",
+                    "isFemale": true,
+                    "bio": "Chhappar-Surat"   
+                  },{
+                    "name": "Deepika Taparia",
+                    "isFemale": true,
+                    "bio": "Jaswantgarh - Silwasa"   
+                  },
+                  {
                             "name": "Govind",
                             "image": "images/fictional/govind.png"
-                        }
+                    }
                      ]
 				},
                 {     
@@ -31,6 +70,15 @@
 					"image": "images/fictional/ramvatar.png",
                     "children": [
                         {
+                    "name": "Kumari Gunjan ",
+                    "isFemale": true,
+                    "bio": ""   
+                  },{
+                    "name": "Kumari Siddhi",
+                    "isFemale": true,
+                    "bio": ""   
+                  },
+                 {
                             "name": "Piyush",
                             "image": "images/fictional/piyush.png"
                         }

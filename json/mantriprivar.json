@@ -2,18 +2,58 @@
 	"name": "Late. Tikamchand Ji Mantri",
 	"bio": "",
 	"image": "images/fictional/lord.png",
-	"children": [{
-			"name": "Jalamchand Ji",
+	"children": [
+            {
+			"name": "Late. Jalamchand Ji",
 			"bio": " ",
 			"image": "images/fictional/lord.png",
-			"children": [{
+			"children": [
+                    {
+                        "name": "Late. Sarju Devi",
+                        "bio": "",
+                        "isFemale": true
+                    },
+                    {
+                        "name": "Unkown",
+                        "isFemale": true,
+                        "bio": "Sardi ka Karwa"   
+                    },
+                    {
 					"name": "Late. Maanmal Ji",
 					"image": "images/fictional/lord.png",
 					"bio": "",
-					"children": [{
+					"children": [
+                        {
+                            "name": "Late. Maghi Devi Sarda",
+                            "bio": "Nimbi Jodha",
+                            "isFemale": true
+                        },
+                        {
+                            "name": "Late. Mohri Devi Bharadiya",
+                            "isFemale": true,
+                            "bio": "Sujangarh"   
+                        },
+                        
+                        {
 							"name": "Late. Ramanarayn Ji",
 							"bio": "",
-							"children": [{
+                            "children": [
+                                {
+                                    "name": "Late. Manohari Devi Lahoti",
+                                     "bio": "Nazira",
+                                    "isFemale": true
+                                },
+                                {
+                                    "name": "Late. Kunani Devi Lakhotiya",
+                                    "isFemale": true,
+                                    "bio": "Churu"   
+                                },
+                                {
+                                    "name": "Late. Ramdei Lohiya",
+                                    "isFemale": true,
+                                    "bio": "Jaswantgarh"   
+                                },
+                                {
 									"name": "Late. Inderchand Ji",
 									"source": "json/indarchandji.json"
 								},
@@ -52,6 +92,14 @@
 					"image": "images/fictional/lord.png",
 					"bio": "",
                     "children": [{
+                    "name": "Late. Birdhi Devi Pansari",
+                    "isFemale": true,
+                    "bio": "Didwana"   
+                  },{
+                    "name": "Ganpati Devi Sarda",
+                    "isFemale": true,
+                    "bio": "Sujangarh"   
+                  },{
 							"name": "Late. Likhmichand Ji",
 							"bio": "",
 				            "source": "json/likhmichandji.json"
@@ -75,6 +123,18 @@
 					"image": "images/fictional/lord.png",
 					"bio": "",
                      "children": [{
+                    "name": "Late. Chandari Devi Lohiya",
+                    "isFemale": true,
+                    "bio": "Sujangarh - Kolkata"   
+                  },{
+                    "name": "Late. Dhapi Devi Sarda",
+                    "isFemale": true,
+                    "bio": "Sujangarh - Kolkata"   
+                  },{
+                    "name": "Late. Tulsi Devi Bihani",
+                    "isFemale": true,
+                    "bio": "Sujangarh -  Surat"   
+                  },{
 							"name": "Late. Murlidhar Ji",
 							"bio": "",
 				            "source": "json/murlidharji.json"
@@ -89,10 +149,14 @@
 
 				},
 				{
-					"name": "Late. Ramakishan Ji",
+					"name": "Late. Ramakishan Ji (Shri Pitar Dadoji)",
 					"image": "images/fictional/lord.png",
 					"bio": "",
                      "children": [{
+                    "name": "Late. Rukma Devi Sarda",
+                    "isFemale": true,
+                    "bio": "Nimbi Jodha"   
+                  },{
 							"name": "Late. Aashkaran Ji",
 							"bio": "",
 				            "source": "json/ashkaranji.json"

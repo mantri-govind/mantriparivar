@@ -1,8 +1,26 @@
 {
-	"children": [{
+	"children": [
+                {
+                    "name": "Sumitra Devi Lohiya",
+                    "isFemale": true,
+                    "bio": "Gulabbhag"   
+                  },
+            
+        {
 			"name": "Late. Bhanwarlal Ji",
 			"bio": "",
-			"children": [{
+			"children": [
+                    {
+                    "name": "Usha Jhanwar",
+                    "isFemale": true,
+                    "bio": "Ladnu"   
+                  },
+                    {
+                    "name": "Manisha Mandhani",
+                    "isFemale": true,
+                    "bio": "Ladnu"   
+                  },
+                {
 					"name": "Late. Rajkumar",
 					"image": "images/fictional/rajkumar.png"
 				},
@@ -12,7 +30,12 @@
 					"children": [{
 						"name": "Aditya",
 						"image": "images/fictional/aditya.png"
-					}]
+					},
+                        {
+                    "name": "Kumari Priyanka",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				},
 				{
 					"name": "Kishore Kumar",
@@ -20,7 +43,11 @@
 					"children": [{
 						"name": "Pradhuman",
 						"image": "images/fictional/pradhuman.png"
-					}]
+					},     {
+                    "name": "Kumari Payal",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				},
 				{
 					"name": "Deendayal",
@@ -28,7 +55,15 @@
 					"children": [{
 						"name": "Rachit",
 						"image": "images/fictional/rachit.png"
-					}]
+					},     {
+                    "name": "Kumari Ashita",
+                    "isFemale": true,
+                    "bio": ""   
+                  },     {
+                    "name": "Kumari Harshita",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				}
 			]
 		},
@@ -36,12 +71,20 @@
 			"name": "Madangopal Ji",
 			"bio": "",
 			"children": [{
+                    "name": "Neelam Toshniwal",
+                    "isFemale": true,
+                    "bio": "Sujangarh"   
+                  },{
 					"name": "Naveen Kumar",
 					"image": "images/fictional/naveenkumar.png",
                     "children": [{
 					   "name": "Yuvraj",
 					   "image": "images/fictional/yuvraj.png"
-				    }]
+				    },{
+                    "name": "Kumari Navya",
+                    "isFemale": true,
+                    "bio": ""   
+                  }     ]
 				}]
          },
           {
@@ -50,8 +93,16 @@
 			"children": [{
 					"name": "Deepak",
 					"image": "images/fictional/sandeep.png",
-                    "children": []
+                    "children": [{
+                    "name": "Kumari Mahak",
+                    "isFemale": true,
+                    "bio": ""   
+                  }]
 				},{
+                    "name": "Vandana Rathi",
+                    "isFemale": true,
+                    "bio": "Nagpur"   
+                  },{
 					"name": "Sandeep",
 					"image": "images/fictional/sandeep.png",
                     "children": [{
