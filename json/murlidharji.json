@@ -1,47 +1,47 @@
 {
 	"children": [{
-                    "name": "Kishni Devi Lohiya",
+                    "color" : "murlidharji" , "name": "Kishni Devi Lohiya",
                     "isFemale": true,
                     "bio": "Jaswantgarh - Surat"   
                   },{
-                    "name": "Late. Vimla Devi Malani",
+                    "color" : "murlidharji" , "name": "Late. Vimla Devi Malani",
                     "isFemale": true,
                     "bio": "Sujangarh - Mumbai"   
                   },{
-			"name": "Meghraj Ji",
+			"color" : "murlidharji" , "name": "Meghraj Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Sarla Lahoti",
+                    "color" : "murlidharji" , "name": "Sarla Lahoti",
                     "isFemale": true,
                     "bio": "Chhappar - Kolkata"   
                   },{
-					"name": "Krishangopal Ji",
+					"color" : "murlidharji" , "name": "Krishangopal Ji",
 					"image": "images/fictional/krishangopal.png",
 					"children": [{
-                    "name": "Preeti Bhutda",
+                    "color" : "murlidharji" , "name": "Preeti Bhutda",
                     "isFemale": true,
                     "bio": "Hissar"   
                   },{
-                    "name": "Kumari Swati",
+                    "color" : "murlidharji" , "name": "Kumari Swati",
                     "isFemale": true,
                     "bio": ""   
                   },{
-						"name": "Suraj",
+						"color" : "murlidharji" , "name": "Suraj",
 						"image": "images/fictional/suraj.png"
 
 					}]
 				},
 
 				{
-					"name": "Sunil Kumar Ji",
+					"color" : "murlidharji" , "name": "Sunil Kumar Ji",
 					"image": "images/fictional/sunilkumar.png",
 					"children": [{
-							"name": "Sachin",
+							"color" : "murlidharji" , "name": "Sachin",
 							"image": "images/fictional/sachin.png"
 
 						},
 						{
-							"name": "Govind",
+							"color" : "murlidharji" , "name": "Govind",
 							"image": "images/fictional/govind.png"
 
 						}
@@ -50,39 +50,39 @@
 			]
 		},
 		{
-			"name": "Bajranglal Ji",
+			"color" : "murlidharji" , "name": "Bajranglal Ji",
 			"image": "images/fictional/bajranglal.png",
 			"children": [{
-                    "name": "Anuja Jhanwar",
+                    "color" : "murlidharji" , "name": "Anuja Jhanwar",
                     "isFemale": true,
                     "bio": "Jaswantgarh - Mumbai"   
                   },{
-                    "name": "Indira Lohiya",
+                    "color" : "murlidharji" , "name": "Indira Lohiya",
                     "isFemale": true,
                     "bio": "Sri Dungargrah - Burahanpur"   
                   },{
-					"name": "Sanjeev Ji",
+					"color" : "murlidharji" , "name": "Sanjeev Ji",
 					"image": "images/fictional/sanjeev.png",
 					"children": [{
-                    "name": "Kumari Sweta",
+                    "color" : "murlidharji" , "name": "Kumari Sweta",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Nisha",
+                    "color" : "murlidharji" , "name": "Kumari Nisha",
                     "isFemale": true,
                     "bio": ""   
                   }]
 
 				},
 				{
-					"name": "Sandeep Ji",
+					"color" : "murlidharji" , "name": "Sandeep Ji",
 					"image": "images/fictional/sandeep.png",
 					"children": [{
-                    "name": "Kumari Sakshi",
+                    "color" : "murlidharji" , "name": "Kumari Sakshi",
                     "isFemale": true,
                     "bio": ""   
                   },{
-						"name": "Shubham",
+						"color" : "murlidharji" , "name": "Shubham",
 						"image": "images/fictional/shubham.png"
 					}]
 
@@ -91,23 +91,23 @@
 		},
 
 		{
-			"name": "Banshidhar Ji",
+			"color" : "murlidharji" , "name": "Banshidhar Ji",
 			"image": "images/fictional/banshidhar.png",
 			"children": [{
-					"name": "Sumit",
+					"color" : "murlidharji" , "name": "Sumit",
 					"image": "images/fictional/sumit.png"
 				},
 				{
-					"name": "Amit",
+					"color" : "murlidharji" , "name": "Amit",
 					"image": "images/fictional/amit.png"
 				},
 				{
-					"name": "Gaurav",
+					"color" : "murlidharji" , "name": "Gaurav",
 					"image": "images/fictional/Gaurav.png"
 
 				},
 				{
-					"name": "Gautam",
+					"color" : "murlidharji" , "name": "Gautam",
 					"image": "images/fictional/Gautam.png"
 
 				}
@@ -115,47 +115,47 @@
 			]
 		},
 		{
-			"name": "Jugal Kishor Ji",
+			"color" : "murlidharji" , "name": "Jugal Kishor Ji",
 			"image": "images/fictional/jugalkishor.png",
 			"children": [{
-                    "name": "Kumari Pooja",
+                    "color" : "murlidharji" , "name": "Kumari Pooja",
                     "isFemale": true,
                     "bio": ""   
                   },{
-				"name": "Sanup",
+				"color" : "murlidharji" , "name": "Sanup",
 				"image": "images/fictional/sanup.png"
 
 			}, {
-				"name": "Gopal",
+				"color" : "murlidharji" , "name": "Gopal",
 				"image": "images/fictional/gopal.png"
 
 			}]
 
 		},
 		{
-			"name": "Rajkumar Ji",
+			"color" : "murlidharji" , "name": "Rajkumar Ji",
 			"image": "images/fictional/rajkumar.png",
 			"children": [{
-					"name": "Satish",
+					"color" : "murlidharji" , "name": "Satish",
 					"image": "images/fictional/satish.png",
 					"children": [{
-						"name": "Madhav",
+						"color" : "murlidharji" , "name": "Madhav",
 						"image": "images/fictional/madhav.png"
 
 					}]
 				},
 				{
-					"name": "Ram",
+					"color" : "murlidharji" , "name": "Ram",
 					"image": "images/fictional/ram.png",
                     "children": [{
-                    "name": "Kumari Aaradhya",
+                    "color" : "murlidharji" , "name": "Kumari Aaradhya",
                     "isFemale": true,
                     "bio": ""   
                   }]
 
 				},
 				{
-					"name": "Girish",
+					"color" : "murlidharji" , "name": "Girish",
 					"image": "images/fictional/girish.png"
 
 				}

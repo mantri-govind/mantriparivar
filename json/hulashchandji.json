@@ -1,39 +1,39 @@
 {
 	"children": [{
-			"name": "Late. Hariprasad Ji",
+			"color" : "ramnarayanji", "name": "Late. Hariprasad Ji",
 			"bio": "",
 			"children": [{
-					"name": "Chandraprakash",
+					"color" : "ramnarayanji", "name": "Chandraprakash",
 					"image": "images/fictional/chandraprakash.png"
 				}]
 		},{
-                    "name": "Saroj Toshniwal",
+                    "color" : "ramnarayanji", "name": "Saroj Toshniwal",
                     "isFemale": true,
                     "bio": "Sujangarh - Delhi"   
                   },
                  {
-                    "name": "Seeta Rathi",
+                    "color" : "ramnarayanji", "name": "Seeta Rathi",
                     "isFemale": true,
                     "bio": "Janswantgarh - Mumbai"   
                   },
          {
-			"name": "Champalal Ji",
+			"color" : "ramnarayanji", "name": "Champalal Ji",
             "image": "images/fictional/champalal.png",
 			"bio": "",
 			"children": [{
-					"name": "Vasudev",
+					"color" : "ramnarayanji", "name": "Vasudev",
 					"image": "images/fictional/vasudev.png",
                     "children": [{
-					   "name": "Akshat",
+					   "color" : "ramnarayanji", "name": "Akshat",
 					   "image": "images/fictional/akshat.png"
 				    },
                     {
-					   "name": "Vikram",
+					   "color" : "ramnarayanji", "name": "Vikram",
 					   "image": "images/fictional/vikram.png"
 				    }]
 				},
                 {
-					"name": "Govind",
+					"color" : "ramnarayanji", "name": "Govind",
 					"image": "images/fictional/govind.png"
                 }]
          }

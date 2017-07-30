@@ -1,46 +1,46 @@
 {
 	"children": [{
-                    "name": "Anandi Devi Kankani",
+                    "color" : "kanahiyalalji", "name": "Anandi Devi Kankani",
                     "isFemale": true,
                     "bio": "Ladnu - Indore"   
                   },{
-                    "name": "Hiramani Devi Taparia",
+                    "color" : "kanahiyalalji", "name": "Hiramani Devi Taparia",
                     "isFemale": true,
                     "bio": "Sandwa - Burhanpur"   
                   },{
-                    "name": "Vimla Devi Karwa",
+                    "color" : "kanahiyalalji", "name": "Vimla Devi Karwa",
                     "isFemale": true,
                     "bio": "Jaswantgarh - Surat"   
                   },{
-			"name": "Sitaram Ji",
+			"color" : "kanahiyalalji", "name": "Sitaram Ji",
 			"bio": "",
 			"children": [{
-					"name": "Kamal",
+					"color" : "kanahiyalalji", "name": "Kamal",
 					"image": "images/fictional/kamal.png",
 					"children": [{
-                    "name": "Kumari Diksha",
+                    "color" : "kanahiyalalji", "name": "Kumari Diksha",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Siksha",
+                    "color" : "kanahiyalalji", "color" : "kanahiyalalji", "name": "Kumari Siksha",
                     "isFemale": true,
                     "bio": ""   
                   }]
 				},
 				{
-					"name": "Vimal",
+					"color" : "kanahiyalalji", "name": "Vimal",
 					"image": "images/fictional/vimal.png",
 					"children": [{
-                    "name": "Kumari Sakshi",
+                    "color" : "kanahiyalalji", "name": "Kumari Sakshi",
                     "isFemale": true,
                     "bio": ""   
                   },{
-						"name": "Aayush",
+						"color" : "kanahiyalalji", "name": "Aayush",
 						"image": "images/fictional/aayush.png"
 					}]
 				},
 				{
-					"name": "Mahesh",
+					"color" : "kanahiyalalji", "name": "Mahesh",
 					"image": "images/fictional/mahesh.png",
 					"children": []
 				}
@@ -48,60 +48,60 @@
 
 		},
 		{
-			"name": "Pannalal Ji",
+			"color" : "kanahiyalalji", "name": "Pannalal Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Rekha Daga",
+                    "color" : "kanahiyalalji", "name": "Rekha Daga",
                     "isFemale": true,
                     "bio": "Sri Dungargrah - Delhi"   
                   },{
-				"name": "Ankit",
+				"color" : "kanahiyalalji", "name": "Ankit",
 				"image": "images/fictional/ankit.png",
 				"children": [{
-					"name": "Vivan",
+					"color" : "kanahiyalalji", "name": "Vivan",
 					"image": "images/fictional/vivan.png"
 				}]
 			}]
 
 		},
 		{
-			"name": "Late. Dashrath Ji",
+			"color" : "kanahiyalalji", "name": "Late. Dashrath Ji",
 			"bio": ""
 		},
 		{
-			"name": "Shivbhagwan Ji",
+			"color" : "kanahiyalalji", "name": "Shivbhagwan Ji",
 			"bio": "",
 			"children": [{
-					"name": "Late. Amit",
+					"color" : "kanahiyalalji", "name": "Late. Amit",
 					"image": "images/fictional/amit.png"
 				},{
-                    "name": "Kavita Chandak",
+                    "color" : "kanahiyalalji", "name": "Kavita Chandak",
                     "isFemale": true,
                     "bio": "Himatsar - Jorhat"   
                   },{
-                    "name": "Komal Gupta",
+                    "color" : "kanahiyalalji", "name": "Komal Gupta",
                     "isFemale": true,
                     "bio": "Jaipur -  Bahrin"   
                   },{
-                    "name": "Nisha Jain",
+                    "color" : "kanahiyalalji", "name": "Nisha Jain",
                     "isFemale": true,
                     "bio": "Kolkata -  Dubai"   
                   },
 				{
-					"name": "Sumit",
+					"color" : "kanahiyalalji", "name": "Sumit",
 					"image": "images/fictional/sumit.png"
 				}
 			]
 
 		},
 		{
-			"name": "Jayprakash Ji",
+			"color" : "kanahiyalalji", "name": "Jayprakash Ji",
 			"bio": "",
 			"children": [{
-				"name": "Mayank",
+				"color" : "kanahiyalalji", "name": "Mayank",
 				"image": "images/fictional/amit.png"
 			},{
-                    "name": "Kumari Khushi",
+                    "color" : "kanahiyalalji", "name": "Kumari Khushi",
                     "isFemale": true,
                     "bio": ""   
                   }]

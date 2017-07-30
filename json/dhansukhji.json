@@ -1,86 +1,86 @@
 {
 	"children": [{
-                    "name": "Late. Indira Periwal",
+                    "color" : "dhansukhji", "name": "Late. Indira Periwal",
                     "isFemale": true,
                     "bio": "Chhapper"   
                   },{
-                    "name": "Late. Savitri Jhanwar",
+                    "color" : "dhansukhji", "name": "Late. Savitri Jhanwar",
                     "isFemale": true,
                     "bio": "Sri Dungargarh-Dinhatta"   
                   },{
-                    "name": "Late. Parvati Chandak",
+                    "color" : "dhansukhji", "name": "Late. Parvati Chandak",
                     "isFemale": true,
                     "bio": "Janswantgarh"   
                   },{
-                    "name": "Nani Bai",
+                    "color" : "dhansukhji", "name": "Nani Bai",
                     "isFemale": true,
                     "bio": "Dariba-Bhiwandi"   
                   },{
-			"name": "Late. Radhakishan Ji",
+			"color" : "dhansukhji", "name": "Late. Radhakishan Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Kiran Periwal",
+                    "color" : "dhansukhji", "name": "Kiran Periwal",
                     "isFemale": true,
                     "bio": "Viratnagar (Nepal)"   
                   },{
-					"name": "Manoj",
+					"color" : "dhansukhji", "name": "Manoj",
 					"image": "images/fictional/manoj.png",
                     "children": [{
-					   "name": "Pratik",
+					   "color" : "dhansukhji", "name": "Pratik",
 					   "image": "images/fictional/pratik.png"
 				    },
                     {
-					   "name": "Eswar",
+					   "color" : "dhansukhji", "name": "Eswar",
 					   "image": "images/fictional/eswar.png"
 				    }]
 				},
                 {
-					"name": "Mahesh",
+					"color" : "dhansukhji", "name": "Mahesh",
 					"image": "images/fictional/mahesh.png",
                     "children": [{
-					   "name": "Pranit",
+					   "color" : "dhansukhji", "name": "Pranit",
 					   "image": "images/fictional/pranit.png"
 				    },
                     {
-					   "name": "Dinesh",
+					   "color" : "dhansukhji", "name": "Dinesh",
 					   "image": "images/fictional/dinesh.png"
 				    }]
 				},
                 {
-					"name": "Jagdish",
+					"color" : "dhansukhji", "name": "Jagdish",
 					"image": "images/fictional/jagdish.png",
                     "children": [{
-                    "name": "Kumari Komal",
+                    "color" : "dhansukhji", "name": "Kumari Komal",
                     "isFemale": true,
                     "bio": ""   
                   },{
-					   "name": "Divansh",
+					   "color" : "dhansukhji", "name": "Divansh",
 					   "image": "images/fictional/divansh.png"
 				    }]
 				}
                         
         ]},
          {
-			"name": "Bhagirath Ji",
+			"color" : "dhansukhji", "name": "Bhagirath Ji",
             "image": "images/fictional/bhagirath.png",
 			"bio": "",
 			"children": [{
-                    "name": "Kalawati Maru",
+                    "color" : "dhansukhji", "name": "Kalawati Maru",
                     "isFemale": true,
                     "bio": "Viratnagar (Nepal)"   
                   },{
-                    "name": "Vinita Lohiya",
+                    "color" : "dhansukhji", "name": "Vinita Lohiya",
                     "isFemale": true,
                     "bio": "Kolkata"   
                   },{
-					"name": "Naresh",
+					"color" : "dhansukhji", "name": "Naresh",
 					"image": "images/fictional/naresh.png",
                     "children": [{
-                    "name": "Kumari Harshita",
+                    "color" : "dhansukhji", "name": "Kumari Harshita",
                     "isFemale": true,
                     "bio": ""   
                   },{
-					   "name": "Keshav",
+					   "color" : "dhansukhji", "name": "Keshav",
 					   "image": "images/fictional/keshav.png"
 				    }]
 				}]

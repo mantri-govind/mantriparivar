@@ -1,85 +1,85 @@
 {
 	"children": [{
-                    "name": "Muli Devi Parwal",
+                    "color" : "tolamalji" , "name": "Muli Devi Parwal",
                     "isFemale": true,
                     "bio": "Bareli"   
                   },{
-                    "name": "Mamoi Devi Rathi",
+                    "color" : "tolamalji" , "name": "Mamoi Devi Rathi",
                     "isFemale": true,
                     "bio": "Sujangarh"   
                   },{
-                    "name": "Pana Devi Asawa",
+                    "color" : "tolamalji" , "name": "Pana Devi Asawa",
                     "isFemale": true,
                     "bio": "Jaswantgarh"   
                   },{
-			"name": "Karnidaan Ji",
+			"color" : "tolamalji" , "name": "Karnidaan Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Premlata Mundhra",
+                    "color" : "tolamalji" , "name": "Premlata Mundhra",
                     "isFemale": true,
                     "bio": "Chhapar"   
                   },{
-                    "name": "Suman Karwa",
+                    "color" : "tolamalji" , "name": "Suman Karwa",
                     "isFemale": true,
                     "bio": "Sujangarh"   
                   },
                          {
-                    "name": "Durga Lakhotiya",
+                    "color" : "tolamalji" , "name": "Durga Lakhotiya",
                     "isFemale": true,
                     "bio": "Jorhat"   
                   },{
-					"name": "Narayan Ji (Jamanaprasad)",
+					"color" : "tolamalji" , "name": "Narayan Ji (Jamanaprasad)",
 					"image": "images/fictional/narayan.png",
                     "children": [
                         {
-                    "name": "Radha Somani",
+                    "color" : "tolamalji" , "name": "Radha Somani",
                     "isFemale": true,
                     "bio": "Sri Dungargrah- Malegoan"   
                   },
                         {
-                            "name": "Naveen",
+                            "color" : "tolamalji" , "name": "Naveen",
                             "image": "images/fictional/naveen.png"
                         },
                             {
-                               "name": "Shivam",
+                               "color" : "tolamalji" , "name": "Shivam",
                                "image": "images/fictional/shivam.png"
                             }
                      ]
 				},
                    {     
-					"name": "Gopal",
+					"color" : "tolamalji" , "name": "Gopal",
 					"image": "images/fictional/gopal.png",
                     "children": [
                         {
-                    "name": "Mona Baheti",
+                    "color" : "tolamalji" , "name": "Mona Baheti",
                     "isFemale": true,
                     "bio": "Chhappar-Surat"   
                   },{
-                    "name": "Deepika Taparia",
+                    "color" : "tolamalji" , "name": "Deepika Taparia",
                     "isFemale": true,
                     "bio": "Jaswantgarh - Silwasa"   
                   },
                   {
-                            "name": "Govind",
+                            "color" : "tolamalji" , "name": "Govind",
                             "image": "images/fictional/govind.png"
                     }
                      ]
 				},
                 {     
-					"name": "Ramvatar",
+					"color" : "tolamalji" , "name": "Ramvatar",
 					"image": "images/fictional/ramvatar.png",
                     "children": [
                         {
-                    "name": "Kumari Gunjan ",
+                    "color" : "tolamalji" , "name": "Kumari Gunjan ",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Siddhi",
+                    "color" : "tolamalji" , "name": "Kumari Siddhi",
                     "isFemale": true,
                     "bio": ""   
                   },
                  {
-                            "name": "Piyush",
+                            "color" : "tolamalji" , "name": "Piyush",
                             "image": "images/fictional/piyush.png"
                         }
                      ]

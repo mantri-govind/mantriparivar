@@ -1,100 +1,100 @@
 {
 	"children": [{
-			"name": "Muli Devi Chandak",
+			"color" : "ganeshmalji", "name": "Muli Devi Chandak",
 			"isFemale": true,
 			"bio": "Sri Dungargarh - Dinhatta"
 		}, {
-			"name": "Godawari Devi Jhanwar",
+			"color" : "ganeshmalji", "name": "Godawari Devi Jhanwar",
 			"isFemale": true,
 			"bio": "Sri Dungargarh - Dinhatta"
 		}, {
-			"name": "Saraswati Devi Pansari",
+			"color" : "ganeshmalji", "name": "Saraswati Devi Pansari",
 			"isFemale": true,
 			"bio": "Didwana - Kolkata"
 		}, {
-			"name": "Basanti Devi Rathi",
+			"color" : "ganeshmalji", "name": "Basanti Devi Rathi",
 			"isFemale": true,
 			"bio": "Sri Dungargarh - Bhettagudi"
 		}, {
-			"name": "Begraj Ji",
+			"color" : "ganeshmalji", "name": "Begraj Ji",
 			"bio": "",
 			"children": [{
-				"name": "Sunita Jhanwar",
+				"color" : "ganeshmalji", "name": "Sunita Jhanwar",
 				"isFemale": true,
 				"bio": "Sri Dungargarh - Vardhmaan"
 			}, {
-				"name": "Ashok Ji",
+				"color" : "ganeshmalji", "name": "Ashok Ji",
 				"image": "images/fictional/ahok.png",
 				"children": [{
-					"name": "Sheweta Kalani",
+					"color" : "ganeshmalji", "name": "Sheweta Kalani",
 					"isFemale": true,
 					"bio": "Delhi"
 				}, {
-					"name": "Kumari Kavita",
+					"color" : "ganeshmalji", "name": "Kumari Kavita",
 					"isFemale": true,
 					"bio": ""
 				}, {
-					"name": "Kumari Meenakshi",
+					"color" : "ganeshmalji", "name": "Kumari Meenakshi",
 					"isFemale": true,
 					"bio": ""
 				}]
 			}, {
-				"name": "Ramavtar Ji",
+				"color" : "ganeshmalji", "name": "Ramavtar Ji",
 				"bio": "",
 				"children": [{
-						"name": "Abhishek",
+						"color" : "ganeshmalji", "name": "Abhishek",
 						"image": "images/fictional/abhishek.png"
 					},
 					{
-						"name": "Naveen",
+						"color" : "ganeshmalji", "name": "Naveen",
 						"image": "images/fictional/naveen.png"
 					}
 				]
 			}]
 		},
 		{
-			"name": "Prithaviraj Ji",
+			"color" : "ganeshmalji", "name": "Prithaviraj Ji",
 			"image": "images/fictional/prithaviraj.png",
 			"children": [{
-				"name": "Nirmala Rathi",
+				"color" : "ganeshmalji", "name": "Nirmala Rathi",
 				"isFemale": true,
 				"bio": "Dariba -  Kaliyaganj"
 			}, {
-				"name": "Rekha Jhanwar",
+				"color" : "ganeshmalji", "name": "Rekha Jhanwar",
 				"isFemale": true,
 				"bio": "Deshnok - Jhanwar"
 			}, {
-				"name": "Mahaveer Prasad",
+				"color" : "ganeshmalji", "name": "Mahaveer Prasad",
 				"image": "images/fictional/mahaveerprasad.png",
 				"children": [{
-					"name": "Vidish",
+					"color" : "ganeshmalji", "name": "Vidish",
 					"image": "images/fictional/vidish.png"
 				}, {
-					"name": "Kumari Prachi",
+					"color" : "ganeshmalji", "name": "Kumari Prachi",
 					"isFemale": true,
 					"bio": ""
 				}]
 			}]
 		}, {
-			"name": "Ramgopal Ji",
+			"color" : "ganeshmalji", "name": "Ramgopal Ji",
 			"bio": "",
 			"children": [{
-					"name": "Ramesh",
+					"color" : "ganeshmalji", "name": "Ramesh",
 					"image": "images/fictional/ramesh.png",
 					"children": [{
-						"name": "Khush",
+						"color" : "ganeshmalji", "name": "Khush",
 						"image": "images/fictional/khush.png"
 					}, {
-						"name": "Sidharth",
+						"color" : "ganeshmalji", "name": "Sidharth",
 						"image": "images/fictional/sidharth.png"
 					}]
 				},
 				{
-					"name": "Vikash",
+					"color" : "ganeshmalji", "name": "Vikash",
 					"image": "images/fictional/vikash.png"
 				},
 				{
-					"name": "Amit",
+					"color" : "ganeshmalji", "name": "Amit",
 					"image": "images/fictional/amit.png"
 				}
 			]

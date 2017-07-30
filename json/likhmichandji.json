@@ -1,60 +1,60 @@
 {
 	"children": [{
-                    "name": "Sohni Devi Taparia",
+                    "color" : "likhmichandji", "name": "Sohni Devi Taparia",
                     "isFemale": true,
                     "bio": "Chhappar- Gulabbag"   
                   },{
-                    "name": "Dakhi Devi Pansari",
+                    "color" : "likhmichandji", "name": "Dakhi Devi Pansari",
                     "isFemale": true,
                     "bio": "Didwana-Kolkata"   
                   },{
-                    "name": "Geeta Devi Lohiya",
+                    "color" : "likhmichandji", "name": "Geeta Devi Lohiya",
                     "isFemale": true,
                     "bio": "Dariba-Kolkata"   
                   },{
-			"name": "Tilokchand Ji",
+			"color" : "likhmichandji", "name": "Tilokchand Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Sampath Holani",
+                    "color" : "likhmichandji", "name": "Sampath Holani",
                     "isFemale": true,
                     "bio": "Khunkhuna"   
                   },{
-                    "name": "Urmila Rathi",
+                    "color" : "likhmichandji", "name": "Urmila Rathi",
                     "isFemale": true,
                     "bio": "Jaswantgarh-Barpetta Road"   
                   },{
-                    "name": "Chandrakala Holani",
+                    "color" : "likhmichandji", "name": "Chandrakala Holani",
                     "isFemale": true,
                     "bio": "Khunkhuna"   
                   },
                     {
-                    "name": "Kaushliya Taparia",
+                    "color" : "likhmichandji", "name": "Kaushliya Taparia",
                     "isFemale": true,
                     "bio": "Sandwa - Hydrabad"   
                   },{
-                    "name": "Shanti Bangar",
+                    "color" : "likhmichandji", "name": "Shanti Bangar",
                     "isFemale": true,
                     "bio": "Kishangarh"   
                   },{
-                    "name": "Anju Baheti",
+                    "color" : "likhmichandji", "name": "Anju Baheti",
                     "isFemale": true,
                     "bio": "Chhappar"   
                   },{
-					"name": "Harakchand Ji",
+					"color" : "likhmichandji", "name": "Harakchand Ji",
 					"image": "images/fictional/harakchand.png",
 					"children": [{
-                    "name": "Kumari Garima",
+                    "color" : "likhmichandji", "name": "Kumari Garima",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Pooja",
+                    "color" : "likhmichandji", "name": "Kumari Pooja",
                     "isFemale": true,
                     "bio": ""   
                   },{
-						"name": "Vishnu",
+						"color" : "likhmichandji", "name": "Vishnu",
 						"image": "images/fictional/vishnu.png",
 						"children": [{
-							"name": "Pranav",
+							"color" : "likhmichandji", "name": "Pranav",
 							"image": "images/fictional/pranav.png"
 						}]
 
@@ -62,35 +62,35 @@
 				},
 
 				{
-					"name": "Omprakash Ji",
+					"color" : "likhmichandji", "name": "Omprakash Ji",
 					"image": "images/fictional/omprakash.png",
 					"children": [{
-                    "name": "Kumari Jayshree",
+                    "color" : "likhmichandji", "name": "Kumari Jayshree",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Rajshree",
+                    "color" : "likhmichandji", "name": "Kumari Rajshree",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Shristi",
+                    "color" : "likhmichandji", "name": "Kumari Shristi",
                     "isFemale": true,
                     "bio": ""   
                   },{
-						"name": "Gravit",
+						"color" : "likhmichandji", "name": "Gravit",
 						"image": "images/fictional/gravit.png"
 
 					}]
 				},
 				{
-					"name": "Nandkishor Ji",
+					"color" : "likhmichandji", "name": "Nandkishor Ji",
 					"image": "images/fictional/nandkishor.png",
 					"children": [{
-                    "name": "Kumari Varsha",
+                    "color" : "likhmichandji", "name": "Kumari Varsha",
                     "isFemale": true,
                     "bio": "Sujangarh"   
                   },{
-						"name": "Nikhil",
+						"color" : "likhmichandji", "name": "Nikhil",
 						"image": "images/fictional/nikhil.png"
 
 					}]
@@ -98,49 +98,49 @@
 			]
 		},
 		{
-			"name": "Daanmal Ji",
+			"color" : "likhmichandji", "name": "Daanmal Ji",
 			"image": "images/fictional/daanmal.png",
 			"children": [{
-					"name": "Hargovind Ji",
+					"color" : "likhmichandji", "name": "Hargovind Ji",
 					"image": "images/fictional/hargovind.png",
 					"children": [{
-							"name": "Prashant",
+							"color" : "likhmichandji", "name": "Prashant",
 							"image": "images/fictional/prashant.png",
 							"children": [{
-								"name": "Himanshu",
+								"color" : "likhmichandji", "name": "Himanshu",
 								"image": "images/fictional/himanshu.png"
 							},{
-                    "name": "Kumari Upasana",
+                    "color" : "likhmichandji", "name": "Kumari Upasana",
                     "isFemale": true,
                     "bio": ""   
                   },{
-                    "name": "Kumari Riddhi",
+                    "color" : "likhmichandji", "name": "Kumari Riddhi",
                     "isFemale": true,
                     "bio": ""   
                   }]
 
 						},
 						{
-							"name": "Praveen",
+							"color" : "likhmichandji", "name": "Praveen",
 							"image": "images/fictional/praveen.png",
 							"children": [{
-								"name": "Chaitanya",
+								"color" : "likhmichandji", "name": "Chaitanya",
 								"image": "images/fictional/chaitanya.png"
 							},{
-                    "name": "Kumari Jigyasha",
+                    "color" : "likhmichandji", "name": "Kumari Jigyasha",
                     "isFemale": true,
                     "bio": ""   
                   }]
 
 						},
 						{
-							"name": "Shushant",
+							"color" : "likhmichandji", "name": "Shushant",
 							"image": "images/fictional/shushant.png",
 							"children": [{
-								"name": "Darsh",
+								"color" : "likhmichandji", "name": "Darsh",
 								"image": "images/fictional/darsh.png"
 							},{
-                    "name": "Kumari Dirishi",
+                    "color" : "likhmichandji", "name": "Kumari Dirishi",
                     "isFemale": true,
                     "bio": ""   
                   }]
@@ -150,32 +150,32 @@
 				},
 
 				{
-					"name": "Aanad Ji",
+					"color" : "likhmichandji", "name": "Aanad Ji",
 					"image": "images/fictional/aanad.png",
 					"children": [{
-							"name": "Aashish",
+							"color" : "likhmichandji", "name": "Aashish",
 							"image": "images/fictional/aashish.png",
 							"children": [{
-								"name": "Keshav",
+								"color" : "likhmichandji", "name": "Keshav",
 								"image": "images/fictional/keshav.png"
 
 							},{
-                    "name": "Kumari Aditi",
+                    "color" : "likhmichandji", "name": "Kumari Aditi",
                     "isFemale": true,
                     "bio": ""   
                   }]
 
 						},
 						{
-							"name": "Abhishek",
+							"color" : "likhmichandji", "name": "Abhishek",
 							"image": "images/fictional/abhishek.png",
 							"children": [{
-									"name": "Bhavy",
+									"color" : "likhmichandji", "name": "Bhavy",
 									"image": "images/fictional/bhavy.png"
 
 								},
 								{
-									"name": "Kushal",
+									"color" : "likhmichandji", "name": "Kushal",
 									"image": "images/fictional/kushal.png"
 
 								}
@@ -185,29 +185,29 @@
 					]
 				},
 				{
-					"name": "Pramod",
+					"color" : "likhmichandji", "name": "Pramod",
 					"image": "images/fictional/pramod.png",
 					"children": [{
-						"name": "Raghav",
+						"color" : "likhmichandji", "name": "Raghav",
 						"image": "images/fictional/raghav.png"
 
 					},{
-                    "name": "Mahima Rathi",
+                    "color" : "likhmichandji", "name": "Mahima Rathi",
                     "isFemale": true,
                     "bio": "Surat"   
                   }]
 
 				},
 				{
-					"name": "Prabhat",
+					"color" : "likhmichandji", "name": "Prabhat",
 					"image": "images/fictional/prabhat.png",
 					"children": [{
-							"name": "Madhav",
+							"color" : "likhmichandji", "name": "Madhav",
 							"image": "images/fictional/madhav.png"
 
 						},
 						{
-							"name": "Kaushal",
+							"color" : "likhmichandji", "name": "Kaushal",
 							"image": "images/fictional/kaushal.png"
 
 						}

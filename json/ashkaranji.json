@@ -1,76 +1,77 @@
 {
 	"children": [{
 			"name": "Late. Kesharichand Ji",
-			"bio": "",
+			"color": "ashkaranji", "bio": "",
 			"children": [{
                     "name": "Meena Asawa",
                     "isFemale": true,
-                    "bio": "Khiyala - Bhayandar"   
+                    "color": "ashkaranji", "bio": "Khiyala - Bhayandar"   
                   },{
                     "name": "Sunanda Soni",
                     "isFemale": true,
-                    "bio": "Kathoti -  Pali"   
+                    "color": "ashkaranji", "bio": "Kathoti -  Pali"   
                   },{
                     "name": "Santosh Karwa",
                     "isFemale": true,
-                    "bio": "Sujangarh - Kolkata"   
+                    "color": "ashkaranji", "bio": "Sujangarh - Kolkata"   
                   },{
                     "name": "Kusum Rathi",
                     "isFemale": true,
-                    "bio": "Gopalpura"   
+                    "color": "ashkaranji", "bio": "Gopalpura"   
                   },{
                     "name": "Suman Toshniwal",
                     "isFemale": true,
-                    "bio": "Jaswantgarh -  Kaliyaganj"   
+                    "color": "ashkaranji", "bio": "Jaswantgarh -  Kaliyaganj"   
                   },{
                     "name": "Sangeeta Mal",
                     "isFemale": true,
-                    "bio": "Surat"   
+                    "color": "ashkaranji", "bio": "Surat"   
                   },{
                     "name": "Navita Bajaj",
                     "isFemale": true,
-                    "bio": "Jaswantgarh - Delhi"   
+                    "color": "ashkaranji", "bio": "Jaswantgarh - Delhi"   
                   },{
                     "name": "Kanta Muchaal",
                     "isFemale": true,
-                    "bio": "Didwana - Kolkata"   
+                    "color": "ashkaranji", "bio": "Didwana - Kolkata"   
                   }]
 		},
          {
 			"name": "Late. Jeshraj Ji",
             "image": "images/fictional/jeshraj.png",
-			"bio": "",
+			"color": "ashkaranji", "bio": "",
 			"children": [{
                     "name": "Nirmla Chandak",
                     "isFemale": true,
-                    "bio": "Sri Dungargarh - Bhiwandi"   
+                    "color": "ashkaranji", "bio": "Sri Dungargarh - Bhiwandi"   
                   },{
                     "name": "Sharmila Periwal",
                     "isFemale": true,
-                    "bio": "Ratangarh - Jaipur"   
+                    "color": "ashkaranji", "bio": "Ratangarh - Jaipur"   
                   },{
                     "name": "Parmila Rathi",
                     "isFemale": true,
-                    "bio": "Jaswantgarh - Delhi"   
+                    "color": "ashkaranji", "bio": "Jaswantgarh - Delhi"   
                   },{
                     "name": "Sashikala Somani",
                     "isFemale": true,
-                    "bio": "Jaswantgarh"   
+                    "color": "ashkaranji", "bio": "Jaswantgarh"   
                   },{
 					"name": "Madhusudan",
-					"image": "images/fictional/vasudev.png",
+                       "color" : "balchandji" ,
+					"image": "images/fictional/madhusudan.png",
                     "children": [{
                     "name": "Kumari Sakshi",
                     "isFemale": true,
-                    "bio": ""   
+                    "color": "ashkaranji", "bio": ""   
                   },{
                     "name": "Kumari Nidhi",
                     "isFemale": true,
-                    "bio": ""   
+                    "color": "ashkaranji", "bio": ""   
                   },{
                     "name": "Kumari Ritima",
                     "isFemale": true,
-                    "bio": ""   
+                    "color": "ashkaranji", "bio": ""   
                   }]
          }]
          }

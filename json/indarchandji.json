@@ -1,66 +1,66 @@
 {
 	"children": [
                 {
-                    "name": "Sumitra Devi Lohiya",
+                    "color" : "ramnarayanji", "name": "Sumitra Devi Lohiya",
                     "isFemale": true,
                     "bio": "Gulabbhag"   
                   },
             
         {
-			"name": "Late. Bhanwarlal Ji",
+			"color" : "ramnarayanji", "name": "Late. Bhanwarlal Ji",
 			"bio": "",
 			"children": [
                     {
-                    "name": "Usha Jhanwar",
+                    "color" : "ramnarayanji", "name": "Usha Jhanwar",
                     "isFemale": true,
                     "bio": "Ladnu"   
                   },
                     {
-                    "name": "Manisha Mandhani",
+                    "color" : "ramnarayanji", "name": "Manisha Mandhani",
                     "isFemale": true,
                     "bio": "Ladnu"   
                   },
                 {
-					"name": "Late. Rajkumar",
+					"color" : "ramnarayanji", "name": "Late. Rajkumar",
 					"image": "images/fictional/rajkumar.png"
 				},
 				{
-					"name": "Harishankar",
+					"color" : "ramnarayanji", "name": "Harishankar",
 					"image": "images/fictional/harishankar.jpg",
 					"children": [{
-						"name": "Aditya",
+						"color" : "ramnarayanji", "name": "Aditya",
 						"image": "images/fictional/aditya.png"
 					},
                         {
-                    "name": "Kumari Priyanka",
+                    "color" : "ramnarayanji", "name": "Kumari Priyanka",
                     "isFemale": true,
                     "bio": ""   
                   }]
 				},
 				{
-					"name": "Kishore Kumar",
+					"color" : "ramnarayanji", "name": "Kishore Kumar",
 					"image": "images/fictional/kishore.jpg",
 					"children": [{
-						"name": "Pradhuman",
+						"color" : "ramnarayanji", "name": "Pradhuman",
 						"image": "images/fictional/pradhuman.png"
 					},     {
-                    "name": "Kumari Payal",
+                    "color" : "ramnarayanji", "name": "Kumari Payal",
                     "isFemale": true,
                     "bio": ""   
                   }]
 				},
 				{
-					"name": "Deendayal",
+					"color" : "ramnarayanji", "name": "Deendayal",
 					"image": "images/fictional/deendayal.png",
 					"children": [{
-						"name": "Rachit",
+						"color" : "ramnarayanji", "name": "Rachit",
 						"image": "images/fictional/rachit.png"
 					},     {
-                    "name": "Kumari Ashita",
+                    "color" : "ramnarayanji", "name": "Kumari Ashita",
                     "isFemale": true,
                     "bio": ""   
                   },     {
-                    "name": "Kumari Harshita",
+                    "color" : "ramnarayanji", "name": "Kumari Harshita",
                     "isFemale": true,
                     "bio": ""   
                   }]
@@ -68,45 +68,45 @@
 			]
 		},
          {
-			"name": "Madangopal Ji",
+			"color" : "ramnarayanji", "name": "Madangopal Ji",
 			"bio": "",
 			"children": [{
-                    "name": "Neelam Toshniwal",
+                    "color" : "ramnarayanji", "name": "Neelam Toshniwal",
                     "isFemale": true,
                     "bio": "Sujangarh"   
                   },{
-					"name": "Naveen Kumar",
+					"color" : "ramnarayanji", "name": "Naveen Kumar",
 					"image": "images/fictional/naveenkumar.png",
                     "children": [{
-					   "name": "Yuvraj",
+					   "color" : "ramnarayanji", "name": "Yuvraj",
 					   "image": "images/fictional/yuvraj.png"
 				    },{
-                    "name": "Kumari Navya",
+                    "color" : "ramnarayanji", "name": "Kumari Navya",
                     "isFemale": true,
                     "bio": ""   
                   }     ]
 				}]
          },
           {
-			"name": "Tulsiram Ji",
+			"color" : "ramnarayanji", "name": "Tulsiram Ji",
 			"bio": "",
 			"children": [{
-					"name": "Deepak",
+					"color" : "ramnarayanji", "name": "Deepak",
 					"image": "images/fictional/sandeep.png",
                     "children": [{
-                    "name": "Kumari Mahak",
+                    "color" : "ramnarayanji", "name": "Kumari Mahak",
                     "isFemale": true,
                     "bio": ""   
                   }]
 				},{
-                    "name": "Vandana Rathi",
+                    "color" : "ramnarayanji", "name": "Vandana Rathi",
                     "isFemale": true,
                     "bio": "Nagpur"   
                   },{
-					"name": "Sandeep",
+					"color" : "ramnarayanji", "name": "Sandeep",
 					"image": "images/fictional/sandeep.png",
                     "children": [{
-					   "name": "Tejas",
+					   "color" : "ramnarayanji", "name": "Tejas",
 					   "image": "images/fictional/tejas.png"
 				    }]
 				}]

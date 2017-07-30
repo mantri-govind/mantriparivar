@@ -2,74 +2,77 @@
 	"children": [{
                     "name": "Champa Devi Chandak",
                     "isFemale": true,
-                    "bio": "Bikaner - New Jersey(US)"   
+                    "color" : "balchandji" , "bio": "Bikaner - New Jersey(US)"   
                   },{
 			"name": "Bajrang Lal Ji",
-			"bio": "",
+			"color" : "balchandji" , "bio": "",
 			"children": [{
                     "name": "Kanchan Ladha ",
                     "isFemale": true,
-                    "bio": "Kolkata"   
+                    "color" : "balchandji" , "bio": "Kolkata"   
                   },{
-					"name": "Niranjan",
+					"name": "Niranjan", "color" : "balchandji" ,
 					"image": "images/fictional/niranjan.png",
                     "children": [
                         {
-                            "name": "Slok",
+                            "name": "Slok", "color" : "balchandji" ,
                             "image": "images/fictional/slok.png"
                         },
                         {
                     "name": "Kumari Nidhi",
                     "isFemale": true,
-                    "bio": ""   
+                    "color" : "balchandji" , "bio": ""   
                   }
                      ]
 				}]
             },
                    {     
 					"name": "Shri Manakchandji (Pitarji Maharaj)",
-					"image": "images/fictional/pitarji.png"
-                     
+					"image": "images/fictional/pitarji.png",
+                      "color" : "balchandji" 
 				},
                 {     
 					"name": "Omprakash Ji",
 					"image": "images/fictional/omprakhash.png",
-                    "children": [{
+                     "color" : "balchandji" ,"children": [{
                     "name": "Preeti Chandak",
                     "isFemale": true,
-                    "bio": "Raipur"   
+                    "color" : "balchandji" , "bio": "Raipur"   
                   },{
                     "name": "Shruti Bhasin",
                     "isFemale": true,
-                    "bio": "Hydrabad"   
+                    "color" : "balchandji" , "bio": "Hydrabad"   
                   }
                      ]
 				},{
                 "name": "Late. Tarachand Ji",
-                "bio": "",
+                "color" : "balchandji" , "bio": "",
                 "children": [{
                     "name": "Nisha Baldua",
                     "isFemale": true,
-                    "bio": "Hydrabad"   
+                    "color" : "balchandji" , "bio": "Hydrabad"   
                   },{
 					"name": "Madhav",
-					"image": "images/fictional/madhav.png"
+					"image": "images/fictional/madhav.png",
+                       "color" : "balchandji" 
                         }
                      ]
 				},
                  {
 			"name": "Sagarmal Ji",
-			"bio": "",
+			"color" : "balchandji" , "bio": "",
 			"children": [{
                     "name": "Ritu Soni",
                     "isFemale": true,
-                    "bio": "Vishakhapatam"   
+                    "color" : "balchandji" , "bio": "Vishakhapatam"   
                   },{
 					"name": "Vineet",
 					"image": "images/fictional/vineet.png",
+                     "color" : "balchandji",
                     "children": [
                         {
                             "name": "Vivan",
+                             "color" : "balchandji" ,
                             "image": "images/fictional/vivan.png"
                         }
                      ]

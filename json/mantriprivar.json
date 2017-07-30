@@ -1,87 +1,104 @@
 {
 	"name": "Late. Tikamchand Ji Mantri",
 	"bio": "",
+    "color": "parent",
 	"image": "images/fictional/lord.png",
 	"children": [
             {
 			"name": "Late. Jalamchand Ji",
 			"bio": " ",
+            "color" : "Jalamchand",
 			"image": "images/fictional/lord.png",
 			"children": [
                     {
                         "name": "Late. Sarju Devi",
+                        "color" : "Jalamchandji",
                         "bio": "",
                         "isFemale": true
                     },
                     {
                         "name": "Unkown",
+                        "color" : "Jalamchandji",
                         "isFemale": true,
                         "bio": "Sardi ka Karwa"   
                     },
                     {
 					"name": "Late. Maanmal Ji",
+                    "color" : "Maanmalji",
 					"image": "images/fictional/lord.png",
 					"bio": "",
 					"children": [
                         {
                             "name": "Late. Maghi Devi Sarda",
                             "bio": "Nimbi Jodha",
+                            "color" : "Maanmalji",
                             "isFemale": true
                         },
                         {
                             "name": "Late. Mohri Devi Bharadiya",
                             "isFemale": true,
+                            "color" : "Maanmalji",
                             "bio": "Sujangarh"   
                         },
                         
                         {
 							"name": "Late. Ramanarayn Ji",
 							"bio": "",
+                            "color" : "Ramanaraynji",
                             "children": [
                                 {
                                     "name": "Late. Manohari Devi Lahoti",
                                      "bio": "Nazira",
+                                    "color" : "Ramanaraynji",
                                     "isFemale": true
                                 },
                                 {
                                     "name": "Late. Kunani Devi Lakhotiya",
                                     "isFemale": true,
+                                    "color" : "Ramanaraynji",
                                     "bio": "Churu"   
                                 },
                                 {
                                     "name": "Late. Ramdei Lohiya",
                                     "isFemale": true,
+                                    "color" : "Ramanaraynji",
                                     "bio": "Jaswantgarh"   
                                 },
                                 {
 									"name": "Late. Inderchand Ji",
+                                    "color" : "Ramanaraynji",
 									"source": "json/indarchandji.json"
 								},
 								{
 									"name": "Late. Hulashchand Ji",
+                                    "color" : "Ramanaraynji",
 									"source": "json/hulashchandji.json"
 								}
 							]
 						},
 						{
-							"name": "Late. Buramal Ji",
+							"name": "Late. Bhuramal Ji",
+                            "color" : "Maanmalji",
 							"image": "images/fictional/lord.png",
 							"bio": ""
 						},
 						{
 							"name": "Late. Dhansukh Ji",
+                            "color" : "dhansukhji",
 							"bio": "",
 							"source": "json/dhansukhji.json"
 						},
 						{
 							"name": "Late. Tolamal Ji",
 							"bio": "",
+                            "color" : "tolamalji",
 							"isFemale": false,
                             "source": "json/tolamalji.json"
 						},
 						{
 							"name": "Late. Balchand Ji",
 							"image": "images/fictional/lord.png",
+                            "color" : "balchandji",
 							"bio": "",
                             "source": "json/balchandji.json"
 						}
@@ -91,27 +108,34 @@
 					"name": "Late. Bherudaan Ji",
 					"image": "images/fictional/lord.png",
 					"bio": "",
-                    "children": [{
+                    "color" : "Bherudaanji",
+                    "children": [
+                        {
                     "name": "Late. Birdhi Devi Pansari",
+                     "color" : "Bherudaanji",
                     "isFemale": true,
                     "bio": "Didwana"   
                   },{
                     "name": "Ganpati Devi Sarda",
+                       "color" : "Bherudaanji",
                     "isFemale": true,
                     "bio": "Sujangarh"   
                   },{
 							"name": "Late. Likhmichand Ji",
+                       "color" : "Bherudaanji",
 							"bio": "",
 				            "source": "json/likhmichandji.json"
 						},
 						{
 							"name": "Late. Ganeshmal Ji",
+                             "color" : "Bherudaanji",
 							"image": "images/fictional/lord.png",
 							"bio": "",
                             "source": "json/ganeshmalji.json"
 						},
 						{
 							"name": "Late. Chadanmal Ji",
+                             "color" : "Bherudaanji",
 							"bio": "",
 							"source": "json/chandanmalji.json"
 						}
@@ -120,26 +144,31 @@
 				},
 				{
 					"name": "Late. Gulabchand Ji",
+                    "color" : "Gulabchand",
 					"image": "images/fictional/lord.png",
 					"bio": "",
                      "children": [{
+                          "color" : "Gulabchand",
                     "name": "Late. Chandari Devi Lohiya",
                     "isFemale": true,
                     "bio": "Sujangarh - Kolkata"   
                   },{
+                       "color" : "Gulabchand",
                     "name": "Late. Dhapi Devi Sarda",
                     "isFemale": true,
                     "bio": "Sujangarh - Kolkata"   
                   },{
+                       "color" : "Gulabchand",
                     "name": "Late. Tulsi Devi Bihani",
                     "isFemale": true,
                     "bio": "Sujangarh -  Surat"   
                   },{
-							"name": "Late. Murlidhar Ji",
+						 "color" : "Gulabchand",	
+                        "name": "Late. Murlidhar Ji",
 							"bio": "",
 				            "source": "json/murlidharji.json"
 						},
-						{
+						{ "color" : "Gulabchand",
 							"name": "Late. Kanahiyalal Ji",
 							"image": "images/fictional/lord.png",
 							"bio": "",
@@ -152,13 +181,16 @@
 					"name": "Late. Ramakishan Ji (Shri Pitar Dadoji)",
 					"image": "images/fictional/lord.png",
 					"bio": "",
-                     "children": [{
+                    "color" : "Ramakishanji",
+                     "children": [
+                         {
                     "name": "Late. Rukma Devi Sarda",
                     "isFemale": true,
                     "bio": "Nimbi Jodha"   
                   },{
 							"name": "Late. Aashkaran Ji",
 							"bio": "",
+                            "color" : "Ramakishanji",
 				            "source": "json/ashkaranji.json"
 						}
                     ]
@@ -169,16 +201,21 @@
 		{
 			"name": "Late. Chunnilal Ji",
 			"bio": " ",
+             "color" : "tikamchandji",
 			"children": [{
+                 "color" : "Chunnilal",
 					"name": "Dungarmal Ji"
 				},
 				{
+                     "color" : "Chunnilal",
 					"name": "Upchand Ji"
 				},
 				{
+                     "color" : "Chunnilal",
 					"name": "Todarmal Ji"
 				},
 				{
+                     "color" : "Chunnilal",
 					"name": "Tansukh Ram Ji"
 				}
 			]
@@ -186,7 +223,9 @@
 		{
 			"name": "Late. Harjimal Ji",
 			"bio": "",
+             "color" : "tikamchandji",
 			"children": [{
+                 "color" : "Harjimal",
 				"name": "Pratapmal Ji"
 			}]
 		},
@@ -194,12 +233,15 @@
 		{
 			"name": "Late. Anupchand Ji",
 			"bio": "",
+             "color" : "tikamchandji",
 			"children": [{
-				"name": "Upchand Ji"
+				"name": "Upchand Ji",
+                 "color" : "Anupchand"
 			}]
 		},
 		{
 			"name": "Late. Tejmaal Ji",
+             "color" : "tikamchandji",
 			"bio": "",
 			"children": []
 

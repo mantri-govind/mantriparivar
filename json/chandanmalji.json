@@ -2,25 +2,26 @@
 	"children": [{
                     "name": "Rameshwari Devi Taparia",
                     "isFemale": true,
-                    "bio": "Sandwa - Hydrabad"   
+                    "color" : "chandanmaljimantri", "bio": "Sandwa - Hydrabad"   
                   },{
                     "name": "Narbda Devi Karwa",
                     "isFemale": true,
-                    "bio": "Jaswantgarh - Surat"   
+                    "color" : "chandanmaljimantri", "bio": "Jaswantgarh - Surat"   
                   },{
                     "name": "Kamla Devi Pansari",
                     "isFemale": true,
-                    "bio": "Didwana - Vishakhapatam"   
+                    "color" : "chandanmaljimantri", "bio": "Didwana - Vishakhapatam"   
                   },{
 			"name": "Late. Nathmal Ji",
-			"bio": "",
+			"color" : "chandanmaljimantri", "bio": "",
 			"children": [{
 					"name": "Dinesh",
+                    "color" : "chandanmaljimantri",
 					"image": "images/fictional/dinesh.png",
 					"children": [{
                     "name": "Garima Daga",
                     "isFemale": true,
-                    "bio": "Madurai -  Banglore"   
+                    "color" : "chandanmaljimantri", "bio": "Madurai -  Banglore"   
                   },{
 						"name": "Pratik",
 						"image": "images/fictional/pratik.png"
@@ -28,13 +29,16 @@
 				},
 				{
 					"name": "Yogesh",
+                    "color" : "chandanmaljimantri",
 					"image": "images/fictional/yogesh.png",
 					"children": [{
 							"name": "Aaryan",
+                        "color" : "chandanmaljimantri",
 							"image": "images/fictional/aaryan.png"
 						},
 						{
 							"name": "Rishi",
+                            "color" : "chandanmaljimantri",
 							"image": "images/fictional/rishi.png"
 						}
 					]
@@ -44,33 +48,39 @@
 		},
 		{
 			"name": "Jethmal Ji",
-			"bio": "",
+			"color" : "chandanmaljimantri", "bio": "",
+            
 			"children": [{
                     "name": "Vinita Singhi",
                     "isFemale": true,
-                    "bio": "Kolkata - Surat"   
+                    "color" : "chandanmaljimantri", "bio": "Kolkata - Surat"   
                   },{
 					"name": "Rakesh",
 					"image": "images/fictional/rakesh.png",
+                      "color" : "chandanmaljimantri",
 					"children": [{
 						"name": "Aakarsh",
+                        "color" : "chandanmaljimantri",
 						"image": "images/fictional/aakarsh.png"
 					},{
                     "name": "Kumari Aastha",
                     "isFemale": true,
-                    "bio": ""   
+                        
+                    "color" : "chandanmaljimantri", "bio": ""   
                   }]
 				},
 				{
 					"name": "Amit",
 					"image": "images/fictional/amit.png",
+                    "color" : "chandanmaljimantri",
 					"children": [{
                     "name": "Kumari Shreya",
                     "isFemale": true,
-                    "bio": ""   
+                    "color" : "chandanmaljimantri", "bio": ""   
                   },{
-						"name": "Riyansh",
-						"image": "images/fictional/riyansh.png"
+						"name": "Reyansh",
+                      "color" : "chandanmaljimantri",
+						"image": "images/fictional/reyansh.png"
 					}]
 				}
 			]
@@ -78,25 +88,27 @@
 		},
 		{
 			"name": "Surajmal Ji",
-			"bio": "",
+			"color" : "chandanmaljimantri", "bio": "",
 			"children": [{
                     "name": "Preeti Baheti",
                     "isFemale": true,
-                    "bio": "Kolkata -  Banglore"   
+                    "color" : "chandanmaljimantri", "bio": "Kolkata -  Banglore"   
                   },{
                     "name": "Jyoti Lahoi",
                     "isFemale": true,
-                    "bio": "Bikaner - Dubai"   
+                    "color" : "chandanmaljimantri", "bio": "Bikaner - Dubai"   
                   },{
 				"name": "Alok",
+                      "color" : "chandanmaljimantri",
 				"image": "images/fictional/alok.png",
 				"children": [{
 					"name": "Manash",
+                    "color" : "chandanmaljimantri",
 					"image": "images/fictional/manash.png"
 				},{
-                    "name": "Kumari Janki",
+                    "name": "Kumari Janvi",
                     "isFemale": true,
-                    "bio": ""   
+                    "color" : "chandanmaljimantri", "bio": ""   
                   }]
 			}]
 
