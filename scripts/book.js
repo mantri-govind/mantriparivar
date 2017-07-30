@@ -40,7 +40,7 @@ $(document).ready(function() {
   function drawTree(data) {
     context = data;
 
-    $("h1").html("स्वर्गीय जालमचंद जी मंत्री का परिवार ");
+    $("h1").html("स्वर्गीय टीकमचंद जी जालमचंद जी मंत्री परिवार  1843 से  2017 तक");
 
     var source   = $("#person-template").html();
     Handlebars.registerPartial("person", $("#person-template").html());
