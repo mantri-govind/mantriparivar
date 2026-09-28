@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mantri Family Tree</title>
+    <meta
+      name="description"
+      content="Interactive family tree for the Mantri family, rendered from the original JSON data for GitHub Pages."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="page-header">
+        <div>
+          <p class="eyebrow">Family archive</p>
+          <h1>श्रीमान टिकमचंद जी जालमचंद जी मंत्री परिवार</h1>
+        </div>
+        <label class="search-wrap" for="searchInput">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Find a family member..." />
+        </label>
+      </header>
+
+      <div class="toolbar" aria-label="Family tree controls">
+        <div class="segmented" role="tablist" aria-label="View mode">
+          <button id="treeViewBtn" class="view-button active" type="button" aria-pressed="true">Tree</button>
+          <button id="listViewBtn" class="view-button" type="button" aria-pressed="false">List</button>
+        </div>
+
+        <div class="tool-actions">
+          <button id="collapseAllBtn" class="action-button" type="button">Collapse all</button>
+          <button id="expandAllBtn" class="action-button" type="button">Expand all</button>
+          <button id="resetViewBtn" class="action-button secondary" type="button">Reset view</button>
+        </div>
+      </div>
+
+      <main class="tree-panel">
+        <div class="tree-wrap">
+          <div id="tree" class="family-tree" aria-live="polite"></div>
+        </div>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
